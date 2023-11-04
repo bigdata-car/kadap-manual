@@ -46,4 +46,19 @@ Openstack을 세밀하게 조정하여 목적에 맞는 시스템을 구성 할 
 
 ## \[참고] CMP-UI : 일반 사용자용
 
-CMP는 Cloud Management Portal의 약어로 쉽게&#x20;
+Horizon UI의 많은 기능들로 인하여 접근성이 어려운 단점 보완하여 일반사용자들이 사용하는 기능을 중심으로 쉽게 사용할수 있도록 자체 개발한 사용자 웹 인터페이스 입니다.
+
+Openstack의 API를 기반으로 개발되어 있어 추가 설정이 필요한 부분은 오픈스택 CLI나Horizon UI로 접속하여 설정을 유지 할  수 있습니다.&#x20;
+
+Horizon UI에서는 제공하지 않지만, KADaP에 필요한 추가 기능을 발굴 하여 개발 적용할 예정입니다. (eg. 컨테이너 관리 및 운영 환경)&#x20;
+
+
+
+
+
+> 일반적으로 CMP는 Cloud Management Platform의 약어이지만, KADaP CMP는 클라우드 포털의 역할만을 수행하고 있어 Cloud Management Potal을 약어로 사용하고 있음
+
+
+
+
+
