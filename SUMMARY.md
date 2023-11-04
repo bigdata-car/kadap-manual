@@ -9,12 +9,6 @@
 
 ## cloud
 
-* [cloud-pc](cloud/cloud-pc/README.md)
-  * [개요](cloud/cloud-pc/undefined.md)
-  * [접속방법](cloud/cloud-pc/undefined-1.md)
-  * [Untitled](cloud/cloud-pc/untitled.md)
-  * [Untitled](cloud/cloud-pc/untitled-1.md)
-  * [Page 2](cloud/cloud-pc/page-2.md)
 * [cloud-server](cloud/cloud-server/README.md)
   * [개요](cloud/cloud-server/undefined.md)
   * [접속방법](cloud/cloud-server/undefined-1.md)
@@ -25,6 +19,12 @@
   * [(Horizon-UI) 가상서버 생성](cloud/cloud-server/horizon-ui-1.md)
   * [(Horizon-UI) 가상서버 사용](cloud/cloud-server/horizon-ui-2.md)
   * [CMP-UI vs. Horizon-UI 설명](cloud/cloud-server/cmp-ui-vs.-horizon-ui.md)
+* [cloud-pc](cloud/cloud-pc/README.md)
+  * [개요](cloud/cloud-pc/undefined.md)
+  * [접속방법](cloud/cloud-pc/undefined-1.md)
+  * [Untitled](cloud/cloud-pc/untitled.md)
+  * [Untitled](cloud/cloud-pc/untitled-1.md)
+  * [Page 2](cloud/cloud-pc/page-2.md)
 
 ## maket-placke
 
