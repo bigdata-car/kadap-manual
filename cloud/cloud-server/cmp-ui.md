@@ -26,7 +26,7 @@
 
 ## 메인 화면 소개
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>[그림2] 메인 화면</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>[그림2] 메인 화면(프로젝트 할당 전)</p></figcaption></figure>
 
 
 
