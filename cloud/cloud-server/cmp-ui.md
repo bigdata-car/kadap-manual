@@ -6,7 +6,7 @@
 
 최초 접속시 다음 로그인 페이지가 나타납니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>[그림 1] 로그인 화면</p></figcaption></figure>
 
 아이디와 비밀번호는 데이터 포털(http://www.bigdata-car.kr)에서 가입한 아이디와 비밀번호를 사용합니다.&#x20;
 
@@ -26,3 +26,13 @@
 
 ## 메인 화면 소개
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>[그림2] 메인 화면</p></figcaption></figure>
+
+
+
+최초 접속시에는 \[그림2]와 화면이 출력됩니다. 각 메뉴에 대한 설명은 다음과 같습니다.&#x20;
+
+1. 사용자에게 할당된 프로젝트를 펼침 메뉴로 볼 수 있습니다.&#x20;
+2. 가상 서버를 생성 하거나 관리 할 수 있습니다.&#x20;
+3. 사용자에게 할당된 프로젝트를 리스트 형태로 볼 수 있습니다.&#x20;
+4.
