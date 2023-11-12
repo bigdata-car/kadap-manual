@@ -52,7 +52,7 @@ Openstack의 API를 기반으로 개발되어 있어 추가 설정이 필요한 
 
 Horizon UI에서는 제공하지 않지만, KADaP에 필요한 추가 기능을 발굴 하여 개발 적용할 예정입니다. (eg. 컨테이너 관리 및 운영 환경)&#x20;
 
-
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 
 
