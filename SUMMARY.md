@@ -5,7 +5,7 @@
 
 ## portal
 
-* [Page 1](portal/page-1.md)
+* [Untitled](portal/untitled.md)
 
 ## cloud
 
@@ -31,4 +31,7 @@
 
 * [Page 3](maket-placke/page-3.md)
 
-## Group 1
+## \[참고]
+
+* [KADaP VPN 접속 방법](undefined/kadap-vpn.md)
+* [Page 1](undefined/page-1.md)
