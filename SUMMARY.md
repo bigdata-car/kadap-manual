@@ -34,4 +34,4 @@
 ## \[참고]
 
 * [KADaP VPN 접속 방법](undefined/kadap-vpn.md)
-* [Page 1](undefined/page-1.md)
+* [CKAN기반 데이터 포털 구축하기](undefined/ckan.md)
