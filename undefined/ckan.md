@@ -40,6 +40,16 @@ _작성 중_
 
 
 
+## TIPs
+
+로고 이미지 바꾸기&#x20;
+
+```bash
+// ckan 컨테이너 내에서 
+$ cd srv/app/src/ckan/ckan/public/base/images
+$ cp /root/kitech_logo.png placeholder-420x220.png
+```
+
 
 
 > 원문 : [https://github.com/ckan/ckan-docker](https://github.com/ckan/ckan-docker)
