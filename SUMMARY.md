@@ -33,5 +33,6 @@
 
 ## \[참고]
 
+* [Cloud-PC 단말기 사용법](undefined/cloud-pc.md)
 * [KADaP VPN 접속 방법](undefined/kadap-vpn.md)
 * [CKAN기반 데이터 포털 구축하기](undefined/ckan.md)
