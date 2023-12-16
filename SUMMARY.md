@@ -31,8 +31,8 @@
 
 * [Page 3](maket-placke/page-3.md)
 
-## \[참고]
+## \[참고] <a href="#appendix01" id="appendix01"></a>
 
-* [Cloud-PC 단말기 사용법](undefined/cloud-pc.md)
-* [KADaP VPN 접속 방법](undefined/kadap-vpn.md)
-* [CKAN기반 데이터 포털 구축하기](undefined/ckan.md)
+* [Cloud-PC 단말기 사용법](appendix01/cloud-pc.md)
+* [KADaP VPN 접속 방법](appendix01/kadap-vpn.md)
+* [CKAN기반 데이터 포털 구축하기](appendix01/ckan.md)
