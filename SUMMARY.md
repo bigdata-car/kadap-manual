@@ -26,6 +26,7 @@
   * [Untitled](cloud/cloud-pc/untitled.md)
   * [Untitled](cloud/cloud-pc/untitled-1.md)
   * [Page 2](cloud/cloud-pc/page-2.md)
+* [cloud-server(New)](cloud/cloud-server-new.md)
 
 ## maket-placke
 
