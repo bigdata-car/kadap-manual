@@ -12,7 +12,7 @@
 * Platform as a Service(PaaS)는 데이터 분석 및 개발 환경을 제공합니다.
 * Software as a service(SaaS)는 여러 형태(WebAPP, API)의 서비스를 제공 합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 KADaP의  Cloud-Server는 IaaS, Cloud-PC는 PaaS, 마켓/서비스 플레이스는 SaaS에 해당하는 역할을 수행 합니다.
