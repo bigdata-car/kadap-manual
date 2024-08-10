@@ -5,7 +5,7 @@
 
 ## portal
 
-* [회원 가입 하기 (일반회원, 기관회원)](portal/undefined.md)
+* [회원 가입 하기 (일반회원, 기관회원)](portal/untitled.md)
 
 ## cloud
 

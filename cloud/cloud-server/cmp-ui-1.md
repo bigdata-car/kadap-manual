@@ -2,7 +2,7 @@
 
 ## 프로젝트 선택
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>[그림1] 메인화면</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>[그림1] 메인화면</p></figcaption></figure>
 
 프로젝트 관리자(eg.팀장, 교수)에게서 프로젝트를 할당 받은 사용자는 \[그림1]과 같이 자신에게 할당 받은 프로젝트가 표현 됩니다. 두개 이상의 프로젝트에 참여중인 사용자는 할당 받은 모든 프로젝트가 표시 됩니다.&#x20;
 
@@ -19,7 +19,7 @@
 
 #### 대비보드
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>[그림2]대비보드 탭</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>[그림2]대비보드 탭</p></figcaption></figure>
 
 대시보드 화면에서는 다음의 정보를 확인 및   실행 할수 있습니다.&#x20;
 
@@ -29,7 +29,7 @@
 
 #### 프로젝트 개요
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>[그림3] 프로젝트 개요 탭</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>[그림3] 프로젝트 개요 탭</p></figcaption></figure>
 
 프로젝트 생성자, 설명, ID, 참여자(멤버) 수를 보여 줍니다.&#x20;
 
@@ -37,7 +37,7 @@
 
 #### 프로젝트 구성원
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>[그림4] 프로젝트 구성원 탭</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>[그림4] 프로젝트 구성원 탭</p></figcaption></figure>
 
 프로젝트 구성원을 확인 및 추가 할 수 있습니다.&#x20;
 

@@ -32,7 +32,7 @@ KADaP 클라우드는 고성능 서버들의 집합으로 이루어져 있습니
    1. CMP-UI(일반 사용자용) : https://cloud.bigdata-car.kr
    2. Horizon-UI(고급 사용자용) : https://horizon.bigdata-car.kr
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## \[참고] Horizon-UI  : 고급 사용자용&#x20;
 
@@ -42,7 +42,7 @@ Openstack을 세밀하게 조정하여 목적에 맞는 시스템을 구성 할 
 
 웹 인터페이스  역시 기능 제공에 초점을 두고 있어 사용자 친밀도는 약합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## \[참고] CMP-UI : 일반 사용자용
 
