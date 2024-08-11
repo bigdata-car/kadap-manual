@@ -11,7 +11,7 @@
 
 * [cloud-server](cloud/cloud-server/README.md)
   * [개요](cloud/cloud-server/undefined.md)
-  * [접속방법](cloud/cloud-server/undefined-1.md)
+  * [사용 신청 및  보안망 접속방법](cloud/cloud-server/undefined-1.md)
   * [(CMP-UI) 첫 화면 소개](cloud/cloud-server/cmp-ui.md)
   * [(CMP-UI) 프로젝트](cloud/cloud-server/cmp-ui-1.md)
   * [(CMP-UI) 가상서버 생성](cloud/cloud-server/cmp-ui-2.md)
@@ -26,7 +26,17 @@
   * [Untitled](cloud/cloud-pc/untitled.md)
   * [Untitled](cloud/cloud-pc/untitled-1.md)
   * [Page 2](cloud/cloud-pc/page-2.md)
-* [cloud-server(New)](cloud/cloud-server-new.md)
+* [cloud-server(New)](cloud/cloud-server-new/README.md)
+  * [사용 신청 및 보안망 접속방법](cloud/cloud-server-new/undefined.md)
+  * [클라우드 접속 하기](cloud/cloud-server-new/undefined-1.md)
+  * [프로젝트 생성 하기](cloud/cloud-server-new/undefined-2.md)
+  * [프로젝트에 구성원 추가하기](cloud/cloud-server-new/undefined-3.md)
+  * [가상 머신 생성 하기](cloud/cloud-server-new/undefined-4.md)
+  * [생성된 가상 머신에 접속 하기](cloud/cloud-server-new/undefined-5.md)
+  * [가상머신에 저장 공간 추가 하기](cloud/cloud-server-new/undefined-6.md)
+  * [가상머신 백업 하기 (스냅샷 기능)](cloud/cloud-server-new/undefined-7.md)
+  * [외부에서 가상 머신 접속 하기 (포트포워딩)](cloud/cloud-server-new/undefined-8.md)
+  * [컨테이너 기능 활성화 하기 및 접속 하기](cloud/cloud-server-new/undefined-9.md)
 
 ## maket-placke
 

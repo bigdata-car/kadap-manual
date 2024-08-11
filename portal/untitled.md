@@ -25,7 +25,7 @@
 
 ## 3. 일반 사용자 또는 기관 사용자선택 하기&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 사용자는  일반사용자와 기관사용자로 구분 됩니다. &#x20;
 
@@ -38,7 +38,7 @@
 
 ## 4. 약관 동의&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 약관 동의 후 회원 가입을 선택 하면 다음 단계로 넘어 갑니다.&#x20;
 
