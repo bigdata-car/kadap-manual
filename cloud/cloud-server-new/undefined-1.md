@@ -16,7 +16,7 @@ VPN 프로그램을   활용하여 보안망 접속 후 진행이 가능합니�
 
 ### 에러메시지 : 페이지에 연결 할 수 없습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 * 원인 :  보안망(VPN)접속 없이 접속 하였을 경우&#x20;
 * 해결방법 : 보안망 접속 후 재 시도

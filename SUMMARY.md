@@ -25,7 +25,7 @@
   * [프로젝트 생성 하기](cloud/cloud-server-new/undefined-2.md)
   * [프로젝트에 사용자 추가하기](cloud/cloud-server-new/undefined-3.md)
   * [가상 서버 생성 하기](cloud/cloud-server-new/undefined-4.md)
-  * [(작성중) 가상 서버 관리 하기](cloud/cloud-server-new/undefined-5.md)
+  * [가상 서버 관리 하기](cloud/cloud-server-new/undefined-5.md)
   * [(작성중) 생성된 가상 머신에 접속 하기](cloud/cloud-server-new/undefined-6.md)
   * [(작성중) 가상머신에 저장 공간 추가 하기](cloud/cloud-server-new/undefined-7.md)
   * [(작성중) 가상머신 백업 하기 (스냅샷 기능)](cloud/cloud-server-new/undefined-8.md)
