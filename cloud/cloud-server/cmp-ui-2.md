@@ -4,7 +4,7 @@
 
 클라우드 시스템에서는 하나의 물리서버를 여러대의 가상서버로 나누어서 사용 할 수 있습니다. 이를 서버 가상화라고 합니다.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>[그림1] 서버상화 메뉴</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>[그림1] 서버상화 메뉴</p></figcaption></figure>
 
 1. 서버가상화 : 서버 가상화 메뉴를 펼칩니다.&#x20;
 2. 서버관리 : 새 가상서버를 생성하거나 생성된 서버를 관리 합니다.&#x20;
@@ -16,7 +16,7 @@
 
 ## 서버 만들기
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>[그림2] 서버만들기</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>[그림2] 서버만들기</p></figcaption></figure>
 
 서버 만들기(생성)을 위해서는 아래의 절차로 진행 됩니다.&#x20;
 
@@ -42,6 +42,6 @@
 
 ## 서버 만들기 완료&#x20;
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>[그림3] 서버 생성 중 &#x26; 서버 생성 완료</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>[그림3] 서버 생성 중 &#x26; 서버 생성 완료</p></figcaption></figure>
 
 서버 생성이 요청 후 \[서버 관리]페이지에서 진행 상황을 확인 할 수 있습니다.&#x20;

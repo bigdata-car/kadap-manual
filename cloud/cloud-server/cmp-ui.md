@@ -6,7 +6,7 @@
 
 최초 접속시 다음 로그인 페이지가 나타납니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>[그림 1] 로그인 화면</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>[그림 1] 로그인 화면</p></figcaption></figure>
 
 아이디와 비밀번호는 데이터 포털(http://www.bigdata-car.kr)에서 가입한 아이디와 비밀번호를 사용합니다.&#x20;
 
@@ -26,7 +26,7 @@
 
 ## 메인 화면 소개
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>[그림2] 메인 화면(프로젝트 할당 전)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>[그림2] 메인 화면(프로젝트 할당 전)</p></figcaption></figure>
 
 
 
