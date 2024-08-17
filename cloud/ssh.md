@@ -1,6 +1,6 @@
-# (작성중) 생성된 가상 머신에 SSH접속 하기
+# 생성된 가상 머신에 SSH접속 하기
 
-> 서버 접속을 위해서는 VPN에 접속되어 있어야 합니다. VPN없이 접속하는 방법은[ \[포트포워딩\]](undefined-8.md)을 설정 하며 됩니다.&#x20;
+> 서버 접속을 위해서는 VPN에 접속되어 있어야 합니다. VPN없이 접속하는 방법은[ \[포트포워딩\]](cloud-server-new/undefined-2.md)을 설정 하며 됩니다.&#x20;
 
 ## 0.  사전정보&#x20;
 
@@ -15,11 +15,11 @@
 
 ## 1. 웹기반 SSH 클라이언트를 사용하여 접속하기
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 1\. 가상머신의 \[웹 터미널]을 선택시 웹기반 SSH 클라이언트(웹터미널)이 실행 됩니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 서버 상태 정보를 알려 줍니다. \
    . 연결 시도 중 :  가상서버의 SSH서버 실행 대기중을 의미합니다.  (서버 생성후 1\~2분 소요)\
@@ -36,7 +36,7 @@
 
 ### 2.1 키파일 다운로드 하기&#x20;
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 1. 가상머신의 \[접속정보]를 선택시 접속 정보가 표시 됩니다. \
    . 접
@@ -56,15 +56,15 @@
 #### B. 윈도우에 기본 설치된 클라이언트 사용하기&#x20;
 
 1. Windows Key +  R \
-   ![](<../../.gitbook/assets/image (3).png>)
+   ![](<../.gitbook/assets/image (3).png>)
 2. cmd 또는 powershell 입력 \
-   ![](<../../.gitbook/assets/image (4).png>)
+   ![](<../.gitbook/assets/image (4).png>)
 
 ### 2.3 키파일 이용하여 로그인 하기&#x20;
 
 #### A. 사용자가 선호하는 SSH 클라이언트 사용하기 (Bitvise SSH Client)
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 1. Server \
    . Host : 앞에서 언급된 IP 주소를 입력 합니다. (예 : 10.10.17.3)\
@@ -78,11 +78,11 @@
 #### B. 윈도우에 기본 설치된 클라이언트 사용하기&#x20;
 
 * 키파일이 저장된 경로로 이동 합니다. \
-  ![](<../../.gitbook/assets/image (9).png>)
+  ![](<../.gitbook/assets/image (9).png>)
 * 접속 명령어를 입력 합니다. \
   . 명령어 : ssh ID@IP주소  -i 키파일\
   . 명령어예: c:>ssh ubuntu@10.10.17.3 -i 2-27\_default.pem                      \
-  ![](<../../.gitbook/assets/image (10).png>)
+  ![](<../.gitbook/assets/image (10).png>)
 
 ```bash
 # 에러: 권한 오류 
@@ -107,7 +107,7 @@ icacls.exe 키파일.pem /inheritance:r
 
 #### A. 사용자가 선호하는 SSH 클라이언트 사용하기 (Bitvise SSH Client)
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 1. Server \
    . Host : 앞에서 언급된 IP 주소를 입력 합니다. (예 : 10.10.17.3)\
@@ -122,7 +122,7 @@ icacls.exe 키파일.pem /inheritance:r
 자동차 산업 클라우드에서는 사용자 편의를 위해 root/kadap1234를 기본 계정으로 제공합니다.(접속  후 비밀번호 변경 강제)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 최초 로그인시 보안상 기본 비밀번호를 변경 하여야 합니다. (최초 1회)
 
@@ -132,7 +132,7 @@ icacls.exe 키파일.pem /inheritance:r
 
 #### B. 윈도우에 기본 설치된 클라이언트 사용하기&#x20;
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 1. 접속 명령어를 입력 합니다.  : 명령어 : ssh ID@IP주소 (예: c:>ssh root@10.10.17.3)
 2. 기본 계정 및 비밀번호 알림 창 (최초 접속 시만)

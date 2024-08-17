@@ -1,6 +1,6 @@
 # 가상 서버 관리 하기
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 가상서버 상세 정보\
    . OS 유형 : 설치된 OS의 유형\
@@ -14,22 +14,22 @@
 2. 가상서버 자원(CPU, 메모리, 디스크)사용량 정보를 나타냅니다.&#x20;
 3. 정지/시작 버튼 : 가상서버를 정지 또는 시작 할 수 있습니다.
 4. 추가 기능 \
-   ![](<../../.gitbook/assets/image (3) (1).png>)\
+   ![](<../.gitbook/assets/image (3) (1).png>)\
    . 이름 변경 : 가상 서버의 이름을 변경 합니다.\
    . 재시작 : 동작 중인 가상 서버를 재 기동 합니다.\
    . 서버 사양 변경 : 정지된 가상 서버의 사양을 업/다운그레이드 합니다.\
-   . 백업 이미지 생성 : 정지 중인 가상 서버의 현 상태를 백업(스냅샷)으로 보관 합니다.[ \[상세\]](undefined-7.md)\
-   . 디스크 연결 : 기존에 생성된 저장공간을 연결 합니다. [\[상세\]](undefined-6.md)\
+   . 백업 이미지 생성 : 정지 중인 가상 서버의 현 상태를 백업(스냅샷)으로 보관 합니다.[ \[상세\]](cloud-server-new/undefined-1.md)\
+   . 디스크 연결 : 기존에 생성된 저장공간을 연결 합니다. [\[상세\]](cloud-server-new/undefined.md)\
    . 서버 삭제 : 가상머신을 삭제 합니다. (복구 불가)
 5. 가상서버에 연결된 디스크(저장장치)의 정보를 나타냅니다.&#x20;
 6. 서버 이벤트 : 사용자가 서버에 명령하는 시작, 중지 등의 액션에 대한 실행 이력을 표시합니다.\
-   ![](<../../.gitbook/assets/image (50).png>)
+   ![](<../.gitbook/assets/image (50).png>)
 7. 서버 부트 로그 : 서버가 시작될 때 기록되는 Booting Log를 표시합니다.\
-   ![](<../../.gitbook/assets/image (51).png>)
+   ![](<../.gitbook/assets/image (51).png>)
 8. 시스템 로그 : \
-   ![](<../../.gitbook/assets/image (52).png>)
+   ![](<../.gitbook/assets/image (52).png>)
 9. 가상머신 모니터링 : 가상서버 모니터링   정보를 상세히 조회 할 수 있습니다. \
-   ![](<../../.gitbook/assets/image (53).png>)
+   ![](<../.gitbook/assets/image (53).png>)
 10. 알람이벤트 \
-    ![](<../../.gitbook/assets/image (54).png>)
+    ![](<../.gitbook/assets/image (54).png>)
 

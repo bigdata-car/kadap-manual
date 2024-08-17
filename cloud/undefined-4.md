@@ -4,7 +4,7 @@
 
 ## 1. 생성 화면&#x20;
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 1. 가상 서버를 생성할 프로젝트를 선택 합니다.&#x20;
 2. 프로젝트 하위 기능 중에서 \[서버관리]를 선택 합니다.&#x20;
@@ -12,7 +12,7 @@
 
 ## 2. 생성할 가상 서버 설정 하기&#x20;
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 1. 서버이름 : 생성하고자 하는 서버의 이름을 입력합니다. \
    . 예: EV-Performance\
@@ -32,7 +32,7 @@
 5. 디스크 추가 : 추가 저장공간이 필요 할때 지정합니다.   (eg. D 드라이드)
 6. 모든 설정이 완료 되었으면 \[서버기본정보]에서 확인 합니다.&#x20;
 7. 서버생성 : 선택시 생성 절차가 시작 됩니다.                   \
-   ![](<../../.gitbook/assets/image (46).png>)
+   ![](<../.gitbook/assets/image (46).png>)
 
 {% hint style="info" %}
 제공되는 OS 외 별도의 OS가  필요 하시면 관리자(admin@bigdata-car.kr)에게 연락 주세요.&#x20;
@@ -40,17 +40,17 @@
 
 ## 3. 생성된 가상 서버 확인 하기&#x20;
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 1. 이름 : 서버 관리 페이지로 이동 합니다.&#x20;
 2. 접속정보 : 접속 IP, 계정, 인증키 정보를 알 수 있습니다. \
-   ![](<../../.gitbook/assets/image (48).png>)
+   ![](<../.gitbook/assets/image (48).png>)
 3. 웹 터미널 : 기반 SSH 클라이언트에 접속 합니다. \
    (웹 기반 툴의 속성상 작업은 SSH 클라이언트 프로그램을 추천 합니다. )
-4. 포트포워딩 : 외부 접속 설정을 위한 페이지로 이동 합니다. [\[상세\]](undefined-8.md)
+4. 포트포워딩 : 외부 접속 설정을 위한 페이지로 이동 합니다. [\[상세\]](cloud-server-new/undefined-2.md)
 5. 가상머신의 자원 사용량을 표시 합니다. (로그인시 기능이 활성화 됩니다.)
 6. 가상 서버 기능 메뉴가 표시 됩니다. \
-   ![](<../../.gitbook/assets/image (49).png>)\
+   ![](<../.gitbook/assets/image (49).png>)\
    . 이름 변경 : 가상 서버의 이름을 변경 합니다. \
    . 시작 : 정지된 가상서버를 기동 합니다. \
    . 재시작 : 동작 중인 가상 서버를 재 기동 합니다. \
@@ -58,7 +58,7 @@
    . 콘솔접속 : 동작 중인 가상서버에 접속 합니다. \
    . 서버 사양 변경 : 정지된 가상 서버의 사양을 업그레이드   또는\
    다운그레이드 합니다.  \
-   . 백업 이미지 생성 : 정지 중인 가상 서버의 현 상태를 백업(스냅샷)으로 보관 합니다. [\[상세\]](undefined-7.md)\
-   . 디스크 연결 : 기존에 생성된 저장공간을 연결 합니다. [\[상세\]](undefined-6.md)\
+   . 백업 이미지 생성 : 정지 중인 가상 서버의 현 상태를 백업(스냅샷)으로 보관 합니다. [\[상세\]](cloud-server-new/undefined-1.md)\
+   . 디스크 연결 : 기존에 생성된 저장공간을 연결 합니다. [\[상세\]](cloud-server-new/undefined.md)\
    . 키페어 다운로드 : 키파일 기반 ssh 접속을 위한 키페어를 다운로드 합니다. \
    . 서버 삭제 : 가상머신을 삭제 합니다. (복구 불가)

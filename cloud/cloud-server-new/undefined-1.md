@@ -1,47 +1,33 @@
-# 클라우드 접속 하기
+# (작성중) 가상머신 백업 하기 (스냅샷 기능)
+
+## 1. 백업 이미지 생성하기&#x20;
+
+<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+
+1. 가상서버의 \[백업 이미지 생성]을 선택 합니다.&#x20;
 
 {% hint style="info" %}
-VPN 프로그램을   활용하여 보안망 접속 후 진행이 가능합니다.  &#x20;
+가상서버가 종료 시에만 해당 기능이 활성화 됩니다.&#x20;
 {% endhint %}
 
-## 1. 자동차 산업 클라우드 접속 하기&#x20;
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
-접속 주소 : http://cloud.bigdata-car.kr&#x20;
+1. 백업 이미지 이름 : 이미지 이름을 지정 합니다. \
+   . 예 : 서버이름\_백업 날짜 (EV-Performance-20240818)
+2. 백어 이미지 설명 : 추가 설명을 기입 합니다. \
+   . 예 : 기본 패키지 설치 (python3, pip, docker)
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+## 2. 백업 이미지 확인 하기&#x20;
 
-1. 아이디 :  자동차데이터포털에 가입시 사용한 ID(이메일)를 입력 합니다.&#x20;
-2. 비밀번호 : 자동차데이터포털에 가입시 사용한 비밀번호를 입력 합니다. \
-   (보안망VPN 접속 비밀번호와 다르므로 조심하세요.)
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
-### 에러메시지 : 페이지에 연결 할 수 없습니다.&#x20;
+1. 서버 가상화 - 백업 이미지 관리에서 확인 할 수 있습니다.&#x20;
+2. 서버 백업 이미지&#x20;
+3. 백업한 이미지의 이름, 일시, 원본 서버, OS를 확인 할 수 있습니다.&#x20;
+4. 백업 이미지를 수행 할 수 있는 기능을 보여 줍니다. \
+   . 서버 생성 : 해당 백업 이미지를 이용하여 서버를 생성 합니다. \
+   . 이미지 삭제 : 해당 백업 이미지를 삭제 합니다. \
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-* 원인 :  보안망(VPN)접속 없이 접속 하였을 경우&#x20;
-* 해결방법 : 보안망 접속 후 재 시도
+## 3. 백업 이미지 활용하여 서버 생성 하기&#x20;
 
-### 에러메시지 : 로그인 오류&#x20;
-
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
-
-* 원인 : 입력한 ID와 비밀번호가 맞지 않을경우 발생 합니다.&#x20;
-* 해결방법 : 자동차데이터포털 가입시 사용한 ID와 비밀번호를 입력 하세요.&#x20;
-
-{% hint style="info" %}
-보안망VPN 접속 비밀번호와 다르므로 조심하세요.
-{% endhint %}
-
-### 에러 메시지 :  관리자 승인이 필요 합니다.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
-
-* 원인 : 입력한 ID와 비밀번호는 맞지만, 관리자 승인이 되지 않은 경우 발생 합니다.&#x20;
-* 해결방법 : 관리자(admin@bigdata-car.kr)로 연락 주세요.&#x20;
-
-### 에러메시지 : 현재 참여중인 프로젝트가 없습니다.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
-
-* 원인 : 관리자 승인은 되었지만, 할당된 프로젝트가 없을 경우 발생 합니다.&#x20;
-* 해결방법 : 소속 기관의 **프로젝트 책임자**에게 참여자 등록을 요청하여 주세요.
