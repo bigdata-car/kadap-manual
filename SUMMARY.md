@@ -29,7 +29,7 @@
   * [생성된 가상 머신에 SSH접속 하기](cloud/cloud-server-new/ssh.md)
   * [(작성중) 가상머신에 저장 공간 추가 하기](cloud/cloud-server-new/undefined-6.md)
   * [(작성중) 가상머신 백업 하기 (스냅샷 기능)](cloud/cloud-server-new/undefined-7.md)
-  * [(작성중) 외부에서 가상 머신 접속 하기 (포트포워딩)](cloud/cloud-server-new/undefined-8.md)
+  * [외부에서 가상 머신 접속 하기 (포트포워딩)](cloud/cloud-server-new/undefined-8.md)
   * [(작성중) 컨테이너 기능 활성화 하기 및 접속 하기](cloud/cloud-server-new/undefined-9.md)
 * [cloud-server](cloud/cloud-server/README.md)
   * [개요](cloud/cloud-server/undefined.md)
