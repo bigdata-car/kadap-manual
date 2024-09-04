@@ -1,6 +1,6 @@
 # 데이터 검색 결과 살펴 보기
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 1. 검색 키워드(예:정비)로 검색된 전체 데이터 수를 \[데이터 수집 방식 분류]에 따라 나타냅니다. \
    . 보유 데이터는 1건, 연동 데이터는 0건, 외부 데이터는 250건, 해외 데이터는 139건 총 391건 검색
@@ -56,12 +56,12 @@
 {% hint style="info" %}
 \[마이디스크 저장]과 \[다운로드]는 등록시 '데이터 보안'을 비활성화 하여야 가능합니다.&#x20;
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 {% endhint %}
 
 ### 품질 관리 탭
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 데이터 품질 분석이 가능한 충분한 양의 원본파일(정형데이터)이 등록되었을 경우 표현 됩니다.&#x20;
 

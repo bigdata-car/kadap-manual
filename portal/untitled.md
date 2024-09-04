@@ -44,7 +44,7 @@
 
 ## 5. 정보 입력(일반 사용자)
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 이메일 : 인증 절차를 마친 이메일 주소가 자동으로 입력 됩니다. \
    ID로 사용되며, 변경은 불가능 합니다.&#x20;
@@ -57,7 +57,7 @@
 
 ## 5. 정보 입력(기관 사용자)&#x20;
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 이메일 : 인증 절차를 마친 이메일 주소가 자동으로 입력 됩니다. \
    ID로 사용되며, 변경은 불가능 합니다.&#x20;

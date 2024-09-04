@@ -6,7 +6,7 @@
 
 Web IDE에서는 코드 작성, 컴파일, 실행이 가능합니다. 해외 대표적인 서비스로는 구글의 Colab(좌)이 있으며, Colab에 활용하는 Jupyter Notebook를 동일하게  제공합니다.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Web IDE는 GPU 기반으로 무료로 제공 됩니다. 현재 제공 및 준비 중인 GPU 사양은 다음과 같습니다.&#x20;
 
@@ -17,7 +17,7 @@ Web IDE는 GPU 기반으로 무료로 제공 됩니다. 현재 제공 및 준비
 
 ## Web IDE 접속 하기&#x20;
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 1. 상단메뉴 > 서비스 > Web IDE 툴 선택
 2. 이용하기 선택&#x20;
@@ -30,14 +30,14 @@ https://ide.bigdata-car.kr 로 접속 할 수 있습니다.&#x20;
 
 ### 1. 프로젝트 생성 하기&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 1. 활용 가능한 GPU 수량을 확인 합니다.&#x20;
 2. \[새 프로젝트]를 선택 합니다.&#x20;
 
 ### 2. 프로젝트 설정 하기&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 1. 프로젝트 이름을 입력 합니다.&#x20;
 2. 사용 시간을 입력 합니다. \
@@ -49,11 +49,11 @@ https://ide.bigdata-car.kr 로 접속 할 수 있습니다.&#x20;
 
 ### 3. Web IDE 사용하기&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 1. 접속하고자 하는 프로젝트 명을 선택 합니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 1. 사용하고자 하는 Web IDE의 패키지 명을 선택 하면 실행 됩니다.&#x20;
 2. (선택) 비밀번호가 설정 되어 있는지 확인 합니다.&#x20;

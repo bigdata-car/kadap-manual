@@ -36,7 +36,7 @@
 
 ### 2.1 키파일 다운로드 하기&#x20;
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 가상머신의 \[접속정보]를 선택시 접속 정보가 표시 됩니다. \
    . 접
@@ -78,7 +78,7 @@
 #### B. 윈도우에 기본 설치된 클라이언트 사용하기&#x20;
 
 * 키파일이 저장된 경로로 이동 합니다. \
-  ![](<../.gitbook/assets/image (9) (1).png>)
+  ![](<../.gitbook/assets/image (9) (1) (1).png>)
 * 접속 명령어를 입력 합니다. \
   . 명령어 : ssh ID@IP주소  -i 키파일\
   . 명령어예: c:>ssh ubuntu@10.10.17.3 -i 2-27\_default.pem                      \
