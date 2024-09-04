@@ -15,11 +15,11 @@
 
 ## 1. 웹기반 SSH 클라이언트를 사용하여 접속하기
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 1\. 가상머신의 \[웹 터미널]을 선택시 웹기반 SSH 클라이언트(웹터미널)이 실행 됩니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 서버 상태 정보를 알려 줍니다. \
    . 연결 시도 중 :  가상서버의 SSH서버 실행 대기중을 의미합니다.  (서버 생성후 1\~2분 소요)\
@@ -36,7 +36,7 @@
 
 ### 2.1 키파일 다운로드 하기&#x20;
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 가상머신의 \[접속정보]를 선택시 접속 정보가 표시 됩니다. \
    . 접
@@ -56,9 +56,9 @@
 #### B. 윈도우에 기본 설치된 클라이언트 사용하기&#x20;
 
 1. Windows Key +  R \
-   ![](<../.gitbook/assets/image (3).png>)
+   ![](<../.gitbook/assets/image (3) (1).png>)
 2. cmd 또는 powershell 입력 \
-   ![](<../.gitbook/assets/image (4).png>)
+   ![](<../.gitbook/assets/image (4) (1).png>)
 
 ### 2.3 키파일 이용하여 로그인 하기&#x20;
 
@@ -78,7 +78,7 @@
 #### B. 윈도우에 기본 설치된 클라이언트 사용하기&#x20;
 
 * 키파일이 저장된 경로로 이동 합니다. \
-  ![](<../.gitbook/assets/image (9).png>)
+  ![](<../.gitbook/assets/image (9) (1).png>)
 * 접속 명령어를 입력 합니다. \
   . 명령어 : ssh ID@IP주소  -i 키파일\
   . 명령어예: c:>ssh ubuntu@10.10.17.3 -i 2-27\_default.pem                      \

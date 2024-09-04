@@ -15,7 +15,7 @@
 
 보안망(VPN) 접속없이 https://cloud.bigdata-car.kr에 접속 하게 되면 다음 두 화면 중  사용자 환경에 따라 하나의 화면이 표시 되며 접속이 되지 않습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. 보안망 접속 방법
 
@@ -42,9 +42,9 @@
    1. CMP-UI(일반 사용자용) : https://cloud.bigdata-car.kr
    2. Horizon-UI(고급 사용자용) : 2024.12월 오픈
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 최초 로그인시 임시 비밀번호를 사용자 비밀번호로 변경 하여야 합니다.&#x20;
 
@@ -67,7 +67,7 @@ Openstack의 API를 기반으로 개발되어 있어 추가 설정이 필요한 
 
 Horizon UI에서는 제공하지 않지만, KADaP에 필요한 추가 기능을 발굴 하여 개발 적용할 예정입니다. (eg. 컨테이너 관리 및 운영 환경)&#x20;
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## \[참고] Horizon-UI  : 고급 사용자용&#x20;
 
@@ -77,7 +77,7 @@ Openstack을 세밀하게 조정하여 목적에 맞는 시스템을 구성 할 
 
 웹 인터페이스  역시 기능 제공에 초점을 두고 있어 사용자 친밀도는 약합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

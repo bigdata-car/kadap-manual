@@ -7,7 +7,7 @@
 
 * [회원 가입 하기 (일반회원, 기관회원)](portal/untitled.md)
 * [데이터 검색하는 3가지 방법](portal/3.md)
-* [(작성중) 데이터 검색 및 결과 확인 하기 (상세)](portal/undefined-1.md)
+* [데이터 검색 결과 살펴 보기](portal/undefined-1.md)
 * [(작성중) 데이터 검색 결과를 마이디스크에 저장하기](portal/undefined-2.md)
 * [(작성중) 제공 서비스(IDE)를 활용하여 구글 Colab처럼 개발하기](portal/ide-colab.md)
 * [(작성중) 제공 서비스(Studio)를 활용하여 노코딩 분석 및 시각화 하기](portal/studio.md)
