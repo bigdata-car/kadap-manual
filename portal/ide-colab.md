@@ -55,5 +55,17 @@ https://ide.bigdata-car.kr 로 접속 할 수 있습니다.&#x20;
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+1. 사용하고자 하는 Web IDE의 패키지 명을 선택 하면 실행 됩니다.&#x20;
+2. (선택) 비밀번호가 설정 되어 있는지 확인 합니다.&#x20;
+3. (선택) Host Port 번호를 확인하면 직접 접속이 가능합니다. (무작위로 할당 됨)
 
+{% hint style="info" %}
+직접접속 URL : https://ide-user.bigdata-car.kr:{Host Port 번호}
+{% endhint %}
 
+## Web IDE에서 \[마이디스크] 연동 확인 하기&#x20;
+
+<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+
+1. \[마이디스크]의 tools/ide 에 파일을 업로드 할 경우&#x20;
+2. Web IDE의 \[MyDisk]에서 확인 할 수 있습니다.&#x20;
