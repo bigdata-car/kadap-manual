@@ -37,6 +37,7 @@
     * [파일 추가 하고 공유 하기](cloud/tip-cloud-server/nas-nextcloud/undefined-2.md)
     * [공유 받은 파일 확인 하기](cloud/tip-cloud-server/nas-nextcloud/undefined-3.md)
     * [FTP로 NextCloud에 업로드 하기](cloud/tip-cloud-server/nas-nextcloud/ftp-nextcloud.md)
+    * [Page 4](cloud/tip-cloud-server/nas-nextcloud/page-4.md)
 * [Page 1](cloud/page-1.md)
 * [CKAN기반 데이터 포털 구축하기](cloud/ckan.md)
 * [cloud-pc](cloud/cloud-pc/README.md)

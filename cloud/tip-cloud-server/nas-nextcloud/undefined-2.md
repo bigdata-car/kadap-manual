@@ -13,7 +13,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-## 파일 공유 하기&#x20;
+## 사용자  추가로 파일 공유 하기&#x20;
 
 
 
@@ -34,3 +34,10 @@
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 1. 공유 설정된 사용자 및 권한을 확인 할 수 있습니다.&#x20;
+
+## 링크로 파일 공유 하기 (작성 중)
+
+{% hint style="info" %}
+기능 미 적용&#x20;
+{% endhint %}
+
