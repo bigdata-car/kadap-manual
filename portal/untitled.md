@@ -25,7 +25,7 @@
 
 ## 3. 일반 사용자 또는 기관 사용자선택 하기&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 사용자는  일반사용자와 기관사용자로 구분 됩니다. &#x20;
 
@@ -38,13 +38,13 @@
 
 ## 4. 약관 동의&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 약관 동의 후 회원 가입을 선택 하면 다음 단계로 넘어 갑니다.&#x20;
 
 ## 5. 정보 입력(일반 사용자)
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 이메일 : 인증 절차를 마친 이메일 주소가 자동으로 입력 됩니다. \
    ID로 사용되며, 변경은 불가능 합니다.&#x20;
@@ -57,7 +57,7 @@
 
 ## 5. 정보 입력(기관 사용자)&#x20;
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 이메일 : 인증 절차를 마친 이메일 주소가 자동으로 입력 됩니다. \
    ID로 사용되며, 변경은 불가능 합니다.&#x20;
@@ -68,9 +68,9 @@
    (중복 여부만 확인 하며, 전화번호 인증은 진행하지 않습니다.)
 6. 소속기관 : \[확인] 을 선택하여 소속 기관을 선택 합니다. \
    6.1 사전 등록된 기관일 경우 (1)의 도메인 주소를 기반으로 (2)소속기관을 표시 합니다. \
-   ![](<../.gitbook/assets/image (5) (1) (1) (1) (1).png>)\
+   ![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png>)\
    6.2 등록되지 않은 기관일 경우 사용자가 직접 (1)소속기관을 입력 후 확인을 선택 합니다. \
    &#x20;(관리자 검토 후 입력된 기관명으로 변경 됩니다.)                 \
-   ![](<../.gitbook/assets/image (6) (1) (1) (1) (1).png>)
+   ![](<../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png>)
 7. 기관설명 : 소속기관에 대하여 짧게 설명글을 입력해 주세요.&#x20;
 8. 회원가입을 선택하여 가입을 완료 합니다.&#x20;

@@ -1,11 +1,11 @@
 # 사용자 추가 하기
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 관리자로 로그인 후 우측 상단 프로필(A)를 선택 합니다.&#x20;
 2. 메뉴에서 \[계정]을 선택 합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. \[+새로운 계정]을 선택 하여 팝업 메뉴에 정보를 입력 합니다.&#x20;
 4. (필수) ID : 사용자가 사용할 계정&#x20;
@@ -15,4 +15,8 @@
 8. (선택) 그룹 지정 : 목적별로 여러개의 그룹을 나누어 해당 그룹에 사용를 지정 할 수 있습니다.&#x20;
 9. (선택) 할당량 : 사용자가 저장 할 수 있는 용량을 지정 합니다. (eg. 무제한, 1GB, 5GB, 10GB)
 10. (선택) 담당 관리자 : 관리자가 여러명일 경우 지정 합니다.&#x20;
+
+{% hint style="info" %}
+\[Add new account] 선택 후 UI적인 반응/변경은 없지만 3초 정도 지나면 창이 닫히면서 생성된 사용자를 확인 할 수 있습니다.&#x20;
+{% endhint %}
 

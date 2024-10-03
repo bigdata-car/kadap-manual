@@ -15,7 +15,7 @@
 
 보안망(VPN) 접속없이 https://cloud.bigdata-car.kr에 접속 하게 되면 다음 두 화면 중  사용자 환경에 따라 하나의 화면이 표시 되면 접속이 되지 않습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. 보안망접속 방법
 
@@ -42,7 +42,7 @@
    1. CMP-UI(일반 사용자용) : https://cloud.bigdata-car.kr
    2. Horizon-UI(고급 사용자용) : 2024.12월 오픈
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
@@ -81,7 +81,7 @@ Openstack을 세밀하게 조정하여 목적에 맞는 시스템을 구성 할 
 
 웹 인터페이스  역시 기능 제공에 초점을 두고 있어 사용자 친밀도는 약합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
