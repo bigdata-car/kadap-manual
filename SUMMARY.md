@@ -41,6 +41,8 @@
   * [(Horizon-UI) 가상서버 생성](cloud/deprecated-cloud-server/horizon-ui-1.md)
   * [(Horizon-UI) 가상서버 사용](cloud/deprecated-cloud-server/horizon-ui-2.md)
   * [CMP-UI vs. Horizon-UI 설명](cloud/deprecated-cloud-server/cmp-ui-vs.-horizon-ui.md)
+* [\[Tip\] Cloud-Server 활용하기](cloud/tip-cloud-server/README.md)
+  * [팀 NAS 서버 만들기 (NextCloud)](cloud/tip-cloud-server/nas-nextcloud.md)
 * [cloud-pc](cloud/cloud-pc/README.md)
   * [개요](cloud/cloud-pc/undefined.md)
   * [접속방법](cloud/cloud-pc/undefined-1.md)
