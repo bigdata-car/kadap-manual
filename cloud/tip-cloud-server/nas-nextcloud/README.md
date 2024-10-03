@@ -8,12 +8,13 @@
 
 ## 설치 방법&#x20;
 
-> 자동차 산업 클라우드 내 ubuntu 22.04\_agent02 이미지상에서 테스트 되었습니다.&#x20;
+> 자동차 산업 클라우드 ubuntu 22.04\_agent02 이미지로 테스트 되었습니다.&#x20;
 
 ```sh
-curl -fsSL get.docker.com -o get-docker.sh
+curl -fsSL get.docker.com -o get-docker.sh | sh ./get-docker.sh
 
-apt install fontconfig
+
+apt install fontconfig -y 
 fc-cache -fv
 
 ------ Shell scripts ------------------------------------------
@@ -96,6 +97,16 @@ http://<IP address>:3000
 
 
 ## 관리자 설정 하기&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+1. 최초 접속시 관리자 계정 생성 후 \[설치]를 진행 하여야 합니다.&#x20;
+2. 설치 단계에서 추천 앱을 설치 하거나 \[건너뛰기]로 생략 할 수 있습니다.&#x20;
+3. 설치 완료 후 우측 상단 프로필 아이콘(A)를 선택시 관리자 설정을 진행 할 수 있습니다.&#x20;
+
+{% hint style="info" %}
+KADaP Cloud에서 제공 하는 이미지에서는 admin / kadap1234 로 사전 설정 되어 있습니다.&#x20;
+{% endhint %}
 
 
 
