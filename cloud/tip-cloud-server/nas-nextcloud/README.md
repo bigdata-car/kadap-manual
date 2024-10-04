@@ -113,22 +113,3 @@ http://<IP address>:3000
 {% hint style="info" %}
 KADaP Cloud에서 제공 하는 이미지에서는 admin / kadap1234 로 사전 설정 되어 있습니다.&#x20;
 {% endhint %}
-
-
-
-
-
-## FTP로 파일 업로드 후 NextCloud에 반영하기&#x20;
-
-
-
-{% hint style="info" %}
-```sh
-sudo docker exec -ti --user www-data nextcloud /var/www/html/occ files:scan --all
-```
-{% endhint %}
-
-
-
-
-
