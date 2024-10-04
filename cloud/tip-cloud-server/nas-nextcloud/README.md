@@ -2,9 +2,15 @@
 
 ## NextCloud란&#x20;
 
+Nextcloud는 ownCloud 개발자중 하나인 Frank Karlitschek가 개발한 오픈소스 기반 클라우드 스토리지 소프트웨어입니다.
 
+다른 클라우드 파일 서비스처럼 파일 저장 및 공유 서비스를 포함하여 문서 작업, 가상화, 클라우드, 컴퓨팅 기술 등 하나의 플랫폼에서 사용할 수 있고, MS 오피스, 구글 드라이브 등 추가 기능을 써드파티 앱을 통해 모듈식으로 구현할 수 있습니다.
 
+<figure><img src="../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
+> 추가 정보 : [Nextcloud 란 무엇인가?](https://tech.gluesys.com/blog/2021/05/20/Nextcloud.html)
+>
+> 공식 홈페이지 : [https://nextcloud.com](https://nextcloud.com/)
 
 ## 설치 방법&#x20;
 
