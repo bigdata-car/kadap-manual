@@ -30,6 +30,7 @@
 * [(작성중) 가상머신 백업 하기 (스냅샷 기능)](cloud/undefined-7.md)
 * [외부에서 가상 머신 접속 하기 (포트포워딩)](cloud/undefined-8.md)
 * [(작성중) 컨테이너 기능 활성화 하기 및 접속 하기](cloud/undefined-9.md)
+* [Object Storage 활용하기](cloud/object-storage.md)
 * [\[Tip\] Cloud-Server 활용하기](cloud/tip-cloud-server/README.md)
   * [팀 NAS 서버 만들기 (NextCloud)](cloud/tip-cloud-server/nas-nextcloud/README.md)
     * [사용자 추가 하기](cloud/tip-cloud-server/nas-nextcloud/undefined.md)
@@ -37,19 +38,10 @@
     * [파일 추가 하고 공유 하기](cloud/tip-cloud-server/nas-nextcloud/undefined-2.md)
     * [공유 받은 파일 확인 하기](cloud/tip-cloud-server/nas-nextcloud/undefined-3.md)
     * [FTP로 NextCloud에 업로드 하기](cloud/tip-cloud-server/nas-nextcloud/ftp-nextcloud.md)
-    * [Page 4](cloud/tip-cloud-server/nas-nextcloud/page-4.md)
-* [Object Storage 활용하기](cloud/object-storage.md)
-* [CKAN기반 데이터 포털 구축하기](cloud/ckan.md)
+  * [CKAN기반 데이터 포털 구축하기](cloud/tip-cloud-server/ckan.md)
 * [cloud-pc](cloud/cloud-pc/README.md)
   * [개요](cloud/cloud-pc/undefined.md)
   * [접속방법](cloud/cloud-pc/undefined-1.md)
-  * [Untitled](cloud/cloud-pc/untitled.md)
-  * [Untitled](cloud/cloud-pc/untitled-1.md)
-  * [Page 2](cloud/cloud-pc/page-2.md)
-
-## maket-placke
-
-* [Page 3](maket-placke/page-3.md)
 
 ## \[참고] <a href="#appendix01" id="appendix01"></a>
 
