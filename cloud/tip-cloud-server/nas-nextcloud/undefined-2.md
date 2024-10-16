@@ -11,7 +11,7 @@
 3. 내 PC의 폴더를 업로드 할 수 있습니다.&#x20;
 4. 새로운 폴더를 생성 할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 사용자  추가로 파일 공유 하기&#x20;
 

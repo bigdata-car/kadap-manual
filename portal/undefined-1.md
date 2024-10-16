@@ -24,7 +24,7 @@
 
 ### 기본 탭&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 분류, 정보, 수정일, 등록일 정보를 나타냅니다.&#x20;
 2. 제공기관, 조회수, 다운로드수, 관심데이터 등록 수, 공유 수를 나타냅니다.&#x20;
@@ -33,7 +33,7 @@
    . 상세 정보 : 데이터셋의 메타 정보를 타나냅니다. \
    . 데이터 상세 : 정형/비정형/메타데이터(라벨벨)에 대한 정보를 나타냅니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 데이터 본문 정보 탭
 
@@ -67,7 +67,7 @@
 
 ### 라벨 데이터 탭
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 학습데이터가 라벨 데이터가 지정된 포맷으로 등록되었을  경우 표현 됩니다.&#x20;
 

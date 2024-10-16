@@ -6,7 +6,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 사용자로 최초 로그인시 보이는 화면 입니다.&#x20;
 

@@ -37,7 +37,7 @@ https://ide.bigdata-car.kr 로 접속 할 수 있습니다.&#x20;
 
 ### 2. 프로젝트 설정 하기&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 프로젝트 이름을 입력 합니다.&#x20;
 2. 사용 시간을 입력 합니다. \
@@ -49,7 +49,7 @@ https://ide.bigdata-car.kr 로 접속 할 수 있습니다.&#x20;
 
 ### 3. Web IDE 사용하기&#x20;
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 접속하고자 하는 프로젝트 명을 선택 합니다.&#x20;
 
