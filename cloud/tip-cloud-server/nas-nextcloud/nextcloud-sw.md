@@ -27,6 +27,12 @@ NextCloud에서는 데스크탑용 SW를 제공하고 있습니다. 설치 가�
    * 주소 형태는 https://user.bigdata-car.kr:xxxx  입니다.&#x20;
    * xxx 에 해당하는 포트 번호는 필수적으로 입력 하여야 합니다.&#x20;
 
+{% hint style="info" %}
+일부 기업보안 프로그램(eg. Waterwall)에서는  설치가 차단 될  수 있습니다.&#x20;
+{% endhint %}
+
+
+
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 3. 서버 주소 입력 후 로그인 절차는 웹 브라우져에서 이루어 지게 됩니다.&#x20;
@@ -43,5 +49,43 @@ NextCloud에서는 데스크탑용 SW를 제공하고 있습니다. 설치 가�
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 1. 서버의 파일이 저장된 자신PC 위치를 지정 할 수 있습니다.&#x20;
-2. 서버의 파일을 모두 다운로드 받아 동기화 서버의 파일 중 동기화 할 대상을 선택 할 수 있습니다.&#x20;
+2. 서버의 파일을 모두 다운로드 받아 동기화 할 수 있습니다. (비추천)
+3. 서버의 파일 중 동기화 할 대상을 선택 할 수 있습니다.&#x20;
+4. 서버의 파일리스트를 동기화 하고, 필요시 다운로드 하여 사용 할 수 있습니다. (추천, MS 원드라이브방식)
+5. \[연결]을 선택 하면 동기화가 시작 됩니다.&#x20;
 
+<figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+
+6. 윈도우 우측 하단에서 아이콘 선택시 동기화 상태를 확인 할 수 있습니다.&#x20;
+
+## 3. 내가 가지 폴더 및 파일 다른 사용자에게 공유하기
+
+<figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+
+1. 내컴퓨터(win+E) 실행 후 \[Nextcloud]가 생성된것을 볼 수 있습니다.&#x20;
+2. \[Nextcloud]폴더 선택시 클라우드 상에 있는 파일의 목록이 보여 집니다. \
+   . 상태 아이콘이 \[속이 빈 구름] 모양 일경우, 목록만 가져 온것이고 파일은 클라우드 상에 있습니다. \
+   . 상태 아이콘이 \[원형 v]모양 일 경우, 클라우드에서 원본 파일을 다운로드한 상태 입니다.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+
+3. 공유 하고자 하는 폴더 또는 파일의 마우스 오른클릭 후&#x20;
+4. 확장 메뉴에서 \[Nextcloud]를 선택 합니다.&#x20;
+5. \[공유 옵션]을 선택 하면 공유대상자 및 공유 방법을 선택 할 수 있습니다.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+
+6. 공유 할 사용자 ID를 입력시 등록된 사용자일 경우 하단에 명단이 보입니다. [\[관리자 계정으로 사용자 추가 하기\]](undefined.md)
+7. 공유 대상자가 등록되면 확인 할 수 있습니다.&#x20;
+8. (선택) 공유 방법 설정이 필요시 \[...]를 선택 합니다.&#x20;
+9. (선택) 삭제 및 업로드 없이 다운로드 권한만 주려면 \[보기 전용]을 선택 합니다.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+
+10. 공유 완료시 상태 열에 공유 아이콘이 표시 됩니다.&#x20;
+
+## 4. 공유 받은 폴더 확인 하기&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+
+1. 공유 받은 사용자는 상태열에 공유 아이콘이 표시된 폴더가 생긴것을 확인 할   수 있습니다.&#x20;
