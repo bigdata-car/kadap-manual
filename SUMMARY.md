@@ -48,6 +48,7 @@
 
 * [(작성중) Cloud-PC 단말기 사용법](appendix01/cloud-pc.md)
 * [KADaP VPN 접속 방법](appendix01/kadap-vpn.md)
+  * [(작성중) 핫스팟 or 테더링으로 VPN 접속시 에러 해결 방법](appendix01/kadap-vpn/or-vpn.md)
 * [(Deprecated)cloud-server](appendix01/deprecated-cloud-server/README.md)
   * [개요](appendix01/deprecated-cloud-server/undefined.md)
   * [사용 신청 및  보안망 접속방법](appendix01/deprecated-cloud-server/undefined-1.md)
