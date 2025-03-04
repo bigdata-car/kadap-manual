@@ -19,7 +19,7 @@
 
 1\. 가상머신의 \[웹 터미널]을 선택시 웹기반 SSH 클라이언트(웹터미널)이 실행 됩니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 서버 상태 정보를 알려 줍니다. \
    . 연결 시도 중 :  가상서버의 SSH서버 실행 대기중을 의미합니다.  (서버 생성후 1\~2분 소요)\
@@ -50,13 +50,13 @@
 
 #### A. 사용자가 선호하는 SSH 클라이언트 설치 하기&#x20;
 
-* Bitvise SSH Client(v8.19) [\[다운로드\]](https://cloud.bigdata-car.kr/download/Bitvise\_SSH\_Client.zip)
-* putty[ \[홈페이지\]](https://www.chiark.greenend.org.uk/\~sgtatham/putty/latest.html)
+* Bitvise SSH Client(v8.19) [\[다운로드\]](https://cloud.bigdata-car.kr/download/Bitvise_SSH_Client.zip)
+* putty[ \[홈페이지\]](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 #### B. 윈도우에 기본 설치된 클라이언트 사용하기&#x20;
 
 1. Windows Key +  R \
-   ![](<../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png>)
+   ![](<../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png>)
 2. cmd 또는 powershell 입력 \
    ![](<../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png>)
 

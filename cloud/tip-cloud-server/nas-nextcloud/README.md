@@ -104,7 +104,7 @@ http://<IP address>:3000
 
 ## 관리자 설정 하기&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 최초 접속시 관리자 계정 생성 후 \[설치]를 진행 하여야 합니다.&#x20;
 2. 설치 단계에서 추천 앱을 설치 하거나 \[건너뛰기]로 생략 할 수 있습니다.&#x20;

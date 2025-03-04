@@ -1,6 +1,6 @@
 # 가상 서버 관리 하기
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 가상서버 상세 정보\
    . OS 유형 : 설치된 OS의 유형\
@@ -14,7 +14,7 @@
 2. 가상서버 자원(CPU, 메모리, 디스크)사용량 정보를 나타냅니다.&#x20;
 3. 정지/시작 버튼 : 가상서버를 정지 또는 시작 할 수 있습니다.
 4. 추가 기능 \
-   ![](<../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png>)\
+   ![](<../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png>)\
    . 이름 변경 : 가상 서버의 이름을 변경 합니다.\
    . 재시작 : 동작 중인 가상 서버를 재 기동 합니다.\
    . 서버 사양 변경 : 정지된 가상 서버의 사양을 업/다운그레이드 합니다.\

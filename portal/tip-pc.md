@@ -11,12 +11,12 @@
 1. 마이디스크 하단 \[이름]을 선택 합니다.&#x20;
 2. 팝업창의 \[Connect app]을 선택 합니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 자신의 계정인지 확인 합니다.&#x20;
 2. Accept를 선택 합니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -32,9 +32,9 @@ WebDAV client programs tested with FileRun:
 
 | Program Name                                                                               | Operating System               | License           | Notes                                             |
 | ------------------------------------------------------------------------------------------ | ------------------------------ | ----------------- | ------------------------------------------------- |
-| [Windows Explorer](https://docs.filerun.com/webdav#windowsconnecting\_with\_explorer)      | Windows                        |                   | Our opinion: only if you don't have other options |
-| [MacOS Finder](https://docs.filerun.com/webdav#macosconnecting\_with\_finder)              | Mac                            |                   | Our opinion: decent solution                      |
-| [Linux](https://docs.filerun.com/webdav#linuxmounting\_from\_the\_command\_line)           | Linux                          |                   |                                                   |
+| [Windows Explorer](https://docs.filerun.com/webdav#windowsconnecting_with_explorer)        | Windows                        |                   | Our opinion: only if you don't have other options |
+| [MacOS Finder](https://docs.filerun.com/webdav#macosconnecting_with_finder)                | Mac                            |                   | Our opinion: decent solution                      |
+| [Linux](https://docs.filerun.com/webdav#linuxmounting_from_the_command_line)               | Linux                          |                   |                                                   |
 | [Rclone](https://rclone.org/)                                                              | <p>Linux<br>Mac<br>Windows</p> |                   | Our opinion: very good!                           |
 | [Cyberduck](https://cyberduck.io/)                                                         | <p>Windows<br>Mac</p>          | Free              | Our opinion: decent solution                      |
 | [WinScp](https://winscp.net/)                                                              | <p>Windows<br>Mac</p>          | Free              |                                                   |

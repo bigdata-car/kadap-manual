@@ -9,7 +9,7 @@
 ## 1. 사용 신청 방법&#x20;
 
 * 신청 대상 : 자동차 분야를 연구하는 기업, 기관, 대학원
-* 신청 서류 : [\[다운로드\]](https://katech2021.sharepoint.com/:t:/s/DataEngineering\_Team/EVgdqdQ6oyhKsTuAuoQbpGYBDRQHu4QipgBY62Bcuf-E-g?e=GDYINY)
+* 신청 서류 : [\[다운로드\]](https://katech2021.sharepoint.com/:t:/s/DataEngineering_Team/EVgdqdQ6oyhKsTuAuoQbpGYBDRQHu4QipgBY62Bcuf-E-g?e=GDYINY)
 * 제출 주소 : admin@bigdata-car.kr \
   (신청  후 5일 안에 검토 후 VPN 계정을 전송 드립니다)
 
@@ -30,7 +30,7 @@
 
 ## 1. VPN을 이용하여 접속 하는 방법&#x20;
 
-1. 신청서([링크](https://katech2021.sharepoint.com/:t:/s/DataEngineering\_Team/EVgdqdQ6oyhKsTuAuoQbpGYBDRQHu4QipgBY62Bcuf-E-g?e=GDYINY))를 작성 후 KADaP 관리자(admin@bigdata-car.kr)로 전달 주세요.&#x20;
+1. 신청서([링크](https://katech2021.sharepoint.com/:t:/s/DataEngineering_Team/EVgdqdQ6oyhKsTuAuoQbpGYBDRQHu4QipgBY62Bcuf-E-g?e=GDYINY))를 작성 후 KADaP 관리자(admin@bigdata-car.kr)로 전달 주세요.&#x20;
 2. 심사 후 접속 ID와 임시 비밀번호가 보내주신 이멜일로 전송 됩니다.&#x20;
 3. VPN 프로그램 다운로드 : https://bigdata-car.kr:2443
 4. VPN 프로그램 실행 후 접속할 서버 설정(최초 1회)&#x20;
@@ -42,7 +42,7 @@
    1. CMP-UI(일반 사용자용) : https://cloud.bigdata-car.kr
    2. Horizon-UI(고급 사용자용) : 2024.12월 오픈
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
@@ -77,7 +77,7 @@ Openstack을 세밀하게 조정하여 목적에 맞는 시스템을 구성 할 
 
 웹 인터페이스  역시 기능 제공에 초점을 두고 있어 사용자 친밀도는 약합니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

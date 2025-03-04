@@ -1,6 +1,6 @@
 # 사용자 추가 하기
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 관리자로 로그인 후 우측 상단 프로필(A)를 선택 합니다.&#x20;
 2. 메뉴에서 \[계정]을 선택 합니다.&#x20;
