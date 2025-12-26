@@ -60,3 +60,4 @@
   * [(Horizon-UI) 가상서버 생성](appendix01/deprecated-cloud-server/horizon-ui-1.md)
   * [(Horizon-UI) 가상서버 사용](appendix01/deprecated-cloud-server/horizon-ui-2.md)
   * [CMP-UI vs. Horizon-UI 설명](appendix01/deprecated-cloud-server/cmp-ui-vs.-horizon-ui.md)
+* [Service Guide](appendix01/service-guide.md)

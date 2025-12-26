@@ -10,7 +10,7 @@ VPN 접속 후 에도 \[정상적인 접근이 아닙니다.] 에러 발생시 I
 
 일부 핫스팟 or 테더링으로 연결시 \`링크-로컬IPv6  주소\`도 할당받게 되어 접속이 어렵습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. (KADaP VPN  접속 후)  윈도우 사용자의 경우 \[윈도우 키] + \[R] 실행 후 \`cmd'를 입력하여 터미널을 실행 합니다. \
    실행 후 \`ipconfig\`를 입력하여  IP 주소를 확인 합니다.&#x20;

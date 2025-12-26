@@ -33,7 +33,7 @@ NextCloud에서는 데스크탑용 SW를 제공하고 있습니다. 설치 가�
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. 서버 주소 입력 후 로그인 절차는 웹 브라우져에서 이루어 지게 됩니다.&#x20;
 4. \[로그인]을 선택 합니다.&#x20;

@@ -2,7 +2,7 @@
 
 ## 1. 백업 이미지 생성하기&#x20;
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 1. 가상서버의 \[백업 이미지 생성]을 선택 합니다.&#x20;
 
@@ -10,7 +10,7 @@
 가상서버가 종료 시에만 해당 기능이 활성화 됩니다.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 1. 백업 이미지 이름 : 이미지 이름을 지정 합니다. \
    . 예 : 서버이름\_백업 날짜 (EV-Performance-20240818)
@@ -19,15 +19,14 @@
 
 ## 2. 백업 이미지 확인 하기&#x20;
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 1. 서버 가상화 - 백업 이미지 관리에서 확인 할 수 있습니다.&#x20;
 2. 서버 백업 이미지&#x20;
 3. 백업한 이미지의 이름, 일시, 원본 서버, OS를 확인 할 수 있습니다.&#x20;
 4. 백업 이미지를 수행 할 수 있는 기능을 보여 줍니다. \
    . 서버 생성 : 해당 백업 이미지를 이용하여 서버를 생성 합니다. \
-   . 이미지 삭제 : 해당 백업 이미지를 삭제 합니다. \
-
+   . 이미지 삭제 : 해당 백업 이미지를 삭제 합니다. <br>
 
 ## 3. 백업 이미지 활용하여 서버 생성 하기&#x20;
 

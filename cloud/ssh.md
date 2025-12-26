@@ -19,7 +19,7 @@
 
 1\. 가상머신의 \[웹 터미널]을 선택시 웹기반 SSH 클라이언트(웹터미널)이 실행 됩니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 서버 상태 정보를 알려 줍니다. \
    . 연결 시도 중 :  가상서버의 SSH서버 실행 대기중을 의미합니다.  (서버 생성후 1\~2분 소요)\

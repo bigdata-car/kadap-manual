@@ -24,7 +24,7 @@
 
 ### 기본 탭&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 분류, 정보, 수정일, 등록일 정보를 나타냅니다.&#x20;
 2. 제공기관, 조회수, 다운로드수, 관심데이터 등록 수, 공유 수를 나타냅니다.&#x20;
