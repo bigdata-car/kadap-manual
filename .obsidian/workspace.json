@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "e8115cd59909eea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0518b4ec09020f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ce09a7598b868c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3aac474529d82658",
+    "type": "split",
+    "children": [
+      {
+        "id": "59c98ed015da4fc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f96728184728a397",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "97333370fd382960",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "47da2994ffb1309a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe9b089e2e67902e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b645676d821cc26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78e5ece2aa5ef29e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "환영합니다!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "환영합니다! 의 백링크"
+            }
+          },
+          {
+            "id": "4d3696a98342353e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "환영합니다!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "환영합니다! 의 나가는 링크"
+            }
+          },
+          {
+            "id": "3ea4256b3debd106",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "bafd4e16dfd49d68",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "676c905f81db45dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "환영합니다!.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "환영합니다! 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4ce09a7598b868c4",
+  "lastOpenFiles": [
+    "SUMMARY.md",
+    "환영합니다!.md",
+    "Guide.md",
+    "TOC.md",
+    "portal/untitled.md",
+    "portal/undefined-4.md",
+    "portal/undefined-2.md",
+    "portal/undefined-3.md",
+    "portal/tip-pc.md",
+    "portal/undefined-1.md",
+    "portal/studio.md",
+    "portal/page.md",
+    "portal/labeller-ai.md",
+    "portal/ide-colab.md",
+    "portal/3.md",
+    "portal",
+    "pages/01-01.md",
+    "pages",
+    "appendix01/deprecated-cloud-server/undefined.md",
+    "appendix01/deprecated-cloud-server/horizon-ui-2.md",
+    "appendix01/deprecated-cloud-server/README.md",
+    "appendix01/deprecated-cloud-server/undefined-1.md",
+    "appendix01/deprecated-cloud-server/horizon-ui.md",
+    "appendix01/deprecated-cloud-server/horizon-ui-1.md",
+    "appendix01/deprecated-cloud-server/cmp-ui.md",
+    "appendix01/deprecated-cloud-server/cmp-ui-vs.-horizon-ui.md",
+    "appendix01/deprecated-cloud-server/cmp-ui-3.md",
+    "appendix01/deprecated-cloud-server/cmp-ui-2.md",
+    "appendix01/deprecated-cloud-server",
+    "appendix01/kadap-vpn",
+    "appendix01",
+    "cloud/tip-cloud-server/nas-nextcloud",
+    "cloud/tip-cloud-server",
+    "cloud/cloud-pc",
+    "cloud",
+    "assets"
+  ]
+}
