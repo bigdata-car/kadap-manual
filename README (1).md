@@ -1,1 +1,0 @@
-# kadap-manual
