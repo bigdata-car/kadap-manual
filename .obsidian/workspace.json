@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/KADaP_UserManual_Agent.md",
+                "file": "TOC.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "KADaP_UserManual_Agent"
+              "title": "TOC"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 250.5
   },
   "right": {
     "id": "fe9b089e2e67902e",
@@ -186,6 +186,7 @@
   },
   "active": "89b97b2c29e3234f",
   "lastOpenFiles": [
+    "raw/KADaP_UserManual_Agent.md",
     "assets/07-agent/1321.png",
     "assets/07-agent/1281.png",
     "assets/07-agent/1258.png",
@@ -196,7 +197,6 @@
     "assets/07-agent/1171.png",
     "assets/07-agent/1158.png",
     "assets/07-agent/Icon_Agent_3_fmt1.png",
-    "assets/07-agent/Icon_Agent_3_fmt.png",
     "pages/07-agent/07-20.md",
     "pages/07-agent/07-19.md",
     "pages/07-agent/07-18.md",
