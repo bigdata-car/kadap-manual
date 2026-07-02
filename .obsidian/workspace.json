@@ -186,6 +186,10 @@
   },
   "active": "4ce09a7598b868c4",
   "lastOpenFiles": [
+    "assets/00-kadap",
+    "assets/새 폴더",
+    "pages/00-kadap",
+    "pages/새 폴더",
     "README.md",
     "SUMMARY.md",
     "환영합니다!.md",
@@ -213,14 +217,10 @@
     "appendix01/deprecated-cloud-server/horizon-ui-1.md",
     "appendix01/deprecated-cloud-server/cmp-ui.md",
     "appendix01/deprecated-cloud-server/cmp-ui-vs.-horizon-ui.md",
-    "appendix01/deprecated-cloud-server/cmp-ui-3.md",
     "appendix01/deprecated-cloud-server",
     "appendix01/kadap-vpn",
     "appendix01",
     "cloud/tip-cloud-server/nas-nextcloud",
-    "cloud/tip-cloud-server",
-    "cloud/cloud-pc",
-    "cloud",
-    "assets"
+    "cloud/tip-cloud-server"
   ]
 }
