@@ -5,7 +5,7 @@
 	- [00-2. 시작하기](pages/00-kadap/00-02.md)
 	- [00-3. 회원 가입하기](pages/00-kadap/00-03.md)
 	- [00-4. 로그인 하기](pages/00-kadap/00-04.md)
-- 01. 자동차 데이터 포털(Portal)
+- [01. 자동차 데이터 포털(Portal)]
   - [01-1. ](pages/01-portal/01-01.md)
   - [01-2. ](pages/01-portal/01-02.md)
 - [02. 자동차 산업 클라우드(Cloud)](pages/02-cloud/02-00.md)
