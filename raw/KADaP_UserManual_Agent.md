@@ -17,7 +17,7 @@
 
 자동차 지식 에이전트의 주요 서비스 구성은 다음과 같습니다.
 
-![1158.png](KADaP_UserManual_Agent-web-resources/image/1158.png)
+![1158.png](./../../assets/07-agent/1158.png)
 
 ## 주요 기능과 특징
 
@@ -46,13 +46,13 @@
 
 자동차 지식 에이전트에서 기본으로 제공하는 데이터를 활용하여 보고서를 생성하려면 다음 순서대로 진행하세요.
 
-![1171.png](KADaP_UserManual_Agent-web-resources/image/1171.png)
+![1171.png](./../../assets/07-agent/1171.png)
 
 ### 사용자 보유 데이터를 활용한 보고서 생성하기
 
 사용자가 보유하고 있는 데이터를 활용하여 보고서를 생성하려면 다음 순서대로 진행하세요.
 
-![1183.png](KADaP_UserManual_Agent-web-resources/image/1183.png)
+![1183.png](./../../assets/07-agent/1183.png)
 
 # 자동차 지식 에이전트 시작
 
@@ -68,14 +68,14 @@
 3. **Agent 챗봇**을 클릭하세요.
    - 자동차 지식 에이전트의 홈 화면으로 이동합니다.
 
-   ![1202.png](KADaP_UserManual_Agent-web-resources/image/1202.png)
+   ![1202.png](./../../assets/07-agent/1202.png)
 
-> ![1224.png](KADaP_UserManual_Agent-web-resources/image/1224.png) **바로가기**
+> ![1224.png](./../../assets/07-agent/1224.png) **바로가기**
 >
 > 다음의 경로로 바로 접속할 수 있습니다.
 > - **자동차 지식 에이전트**: [agent.bigdata-car.kr](https://www.agent.bigdata-car.kr)
 
-> ![1247.png](KADaP_UserManual_Agent-web-resources/image/1247.png) **참고**
+> ![1247.png](./../../assets/07-agent/1247.png) **참고**
 >
 > 자동차 지식 에이전트는 로그인을 하지 않고 일부 기능을 사용할 수 있습니다.단, 활동 내역은 저장되지 않습니다.
 
@@ -83,7 +83,7 @@
 
 자동차 지식 에이전트의 메인 화면은 다음과 같이 구성됩니다.
 
-![1258.png](KADaP_UserManual_Agent-web-resources/image/1258.png)
+![1258.png](./../../assets/07-agent/1258.png)
 
 | 번호 | 항목 | 설명 |
 | --- | --- | --- |
@@ -109,14 +109,14 @@
 
 보고서 화면은 다음과 같이 구성됩니다.
 
-![1281.png](KADaP_UserManual_Agent-web-resources/image/1281.png)
+![1281.png](./../../assets/07-agent/1281.png)
 
 | 번호 | 항목 | 설명 |
 | --- | --- | --- |
 | 1 | 새 보고서 | 새로운 보고서를 생성할 수 있습니다. |
 | 2 | 검색창 | 보고서 이름을 입력하여 검색할 수 있습니다. |
 | 3 | 보고서 목록 | 생성된 보고서 목록을 표시합니다. |
-| 4 | 리소스 사용량 | 리소스 사용량을 표시합니다.<ul><li>![Icon_Agent_1_fmt.png](KADaP_UserManual_Agent-web-resources/image/Icon_Agent_1_fmt.png)을 클릭하면 대시보드 페이지로 이동하고, API 사용량과 비용 현황을 리소스별, API 키별로 확인할 수 있습니다.</li></ul> |
+| 4 | 리소스 사용량 | 리소스 사용량을 표시합니다.<ul><li>![Icon_Agent_1_fmt.png](./../../assets/07-agent/Icon_Agent_1_fmt.png)을 클릭하면 대시보드 페이지로 이동하고, API 사용량과 비용 현황을 리소스별, API 키별로 확인할 수 있습니다.</li></ul> |
 | 5 | 개인 API Key 연결 | **연결하기**를 클릭하면 대시보드 페이지로 이동하고, 카테고리별(LLM 또는 파서) API 키를 추가하거나 변경할 수 있습니다. |
 
 ### 보고서 생성하기 {#보고서-생성하기}
@@ -127,7 +127,7 @@
    - **새 보고서 생성** 팝업창이 표시됩니다.
 2. 보고서 생성을 위한 항목을 설정하세요.
 
-   ![1321.png](KADaP_UserManual_Agent-web-resources/image/1321.png)
+   ![1321.png](./../../assets/07-agent/1321.png)
 
 * **참조 자료**
   - **웹 검색 (실시간)**: 실시간 웹 검색을 통한 최신 정보
@@ -143,7 +143,7 @@
    - **수동 생성**을 클릭하면 보고서 생성 화면으로 이동합니다. 사용자가 챗봇을 사용하여 작성을 요청하거나 직접 보고서 내용을 입력하면서 보고서를 작성할 수 있습니다.
 4. **보고서 계획 확인** 창에서 내용을 확인하세요.
 
-   ![1337.png](KADaP_UserManual_Agent-web-resources/image/1337.png)
+   ![1337.png](./../../assets/07-agent/1337.png)
 
 5. 보고서를 생성하려면 **수락**을 클릭하세요.<br>보고서 생성이 완료되면 결과물이 표시됩니다.
 
@@ -151,13 +151,13 @@
 
 원하는 내용으로 생성된 보고서 결과물을 확인할 수 있습니다.
 
-![1348.png](KADaP_UserManual_Agent-web-resources/image/1348.png)
+![1348.png](./../../assets/07-agent/1348.png)
 
 #### 보고서 히스토리
 
 버전별로 저장된 보고서 목록을 확인할 수 있습니다.<br>원하는 버전의 보고서를 수정하여 새로운 버전으로 저장하거나 불필요한 보고서는 선택하여 삭제할 수 있습니다.
 
-![1359.png](KADaP_UserManual_Agent-web-resources/image/1359.png)
+![1359.png](./../../assets/07-agent/1359.png)
 
 ## 챗봇
 
@@ -169,7 +169,7 @@
 
 챗봇 화면은 다음과 같이 구성됩니다.
 
-![1371.png](KADaP_UserManual_Agent-web-resources/image/1371.png)
+![1371.png](./../../assets/07-agent/1371.png)
 
 | 번호 | 항목 | 설명 |
 | --- | --- | --- |
@@ -193,7 +193,7 @@
 
 자료 관리 화면은 다음과 같이 구성됩니다.
 
-![1423.png](KADaP_UserManual_Agent-web-resources/image/1423.png)
+![1423.png](./../../assets/07-agent/1423.png)
 
 | 번호 | 항목 | 설명 |
 | --- | --- | --- |
@@ -204,8 +204,8 @@
 | 5 | 마이디스크 | 마이디스크 페이지로 이동할 수 있습니다. |
 | 6 | 파일 업로드 | 파일을 업로드하고 원하는 파서를 선택하여 문서를 파싱할 수 있습니다. |
 | 7 | 자료 상세 | 자료 목록과 상세 정보를 표시합니다. |
-| 8 | ![Icon_Agent_2_fmt.png](KADaP_UserManual_Agent-web-resources/image/Icon_Agent_2_fmt.png) | 해당 항목에 대한 컨텍스트 메뉴가 표시됩니다.<ul><li>필요한 경우 원하는 폴더나 파일을 **공개로 전환**할 수 있습니다.<br>공개로 전환한 자료는 **공개 자료** 탭에서 확인할 수 있습니다.</li></ul><ul><li>선택한 폴더나 파일 이름을 변경하고 삭제할 수 있습니다.</li></ul><ul><li>파일별로 다운로드 허용 또는 비허용을 설정할 수 있습니다.</li></ul> |
-| 9 | ![Icon_Agent_3_fmt1.png](KADaP_UserManual_Agent-web-resources/image/Icon_Agent_3_fmt1.png) | 변환(파싱)결과 제공을 지원하는 일부 파서의 경우 시각화 창을 통해 결과를 확인할 수 있습니다. |
+| 8 | ![Icon_Agent_2_fmt.png](./../../assets/07-agent/Icon_Agent_2_fmt.png) | 해당 항목에 대한 컨텍스트 메뉴가 표시됩니다.<ul><li>필요한 경우 원하는 폴더나 파일을 **공개로 전환**할 수 있습니다.<br>공개로 전환한 자료는 **공개 자료** 탭에서 확인할 수 있습니다.</li></ul><ul><li>선택한 폴더나 파일 이름을 변경하고 삭제할 수 있습니다.</li></ul><ul><li>파일별로 다운로드 허용 또는 비허용을 설정할 수 있습니다.</li></ul> |
+| 9 | ![Icon_Agent_3_fmt1.png](./../../assets/07-agent/Icon_Agent_3_fmt1.png) | 변환(파싱)결과 제공을 지원하는 일부 파서의 경우 시각화 창을 통해 결과를 확인할 수 있습니다. |
 
 ### 파일 업로드 및 파싱하기
 
@@ -217,20 +217,20 @@
 2. **파일 업로드**를 클릭하세요.
    - **파일 업로드 및 파싱** 팝업창이 표시됩니다.
 
-   ![1474.png](KADaP_UserManual_Agent-web-resources/image/1474.png)
+   ![1474.png](./../../assets/07-agent/1474.png)
 
 3. **파일 선택하기**를 클릭하여 원하는 파일을 선택한 후, **파일 업로드**를 클릭하세요.
 
-   ![1492.png](KADaP_UserManual_Agent-web-resources/image/1492.png)
+   ![1492.png](./../../assets/07-agent/1492.png)
 
    - 10 MB 이하의 파일만 업로드할 수 있습니다.
 4. 문서 특성에 맞는 원하는 파서를 선택한 후, **파싱 시작**을 클릭하세요.
    - 문서 파싱을 진행합니다.<br>파일 크기나 서비스 제공자의 상황에 따라 시간이 소요될 수 있습니다.
 
-    ![1525.png](KADaP_UserManual_Agent-web-resources/image/1525.png)
+    ![1525.png](./../../assets/07-agent/1525.png)
 
    - 유료 파서의 경우, 기본 제공 횟수를 소진하면 다음의 경로에서 사용자의 파서 API 키를 등록하여 계속해서 사용할 수 있습니다.사용자 프로필 클릭 > **대시보드** > **파서 API 키** > **새 API 키 추가**
-   - **건너뛰기**를 클릭하면 문서 파싱을 하지 않고 파일 업로드만 진행합니다. 업로드한 파일은 자료 목록에서 확인할 수 있고, 필요한 경우 ![Icon_Agent_3.png](KADaP_UserManual_Agent-web-resources/image/Icon_Agent_3_fmt1.png)을 클릭하여파싱을 진행할 수 있습니다.
+   - **건너뛰기**를 클릭하면 문서 파싱을 하지 않고 파일 업로드만 진행합니다. 업로드한 파일은 자료 목록에서 확인할 수 있고, 필요한 경우 ![Icon_Agent_3.png](./../../assets/07-agent/Icon_Agent_3_fmt1.png)을 클릭하여파싱을 진행할 수 있습니다.
 5. 문서 파싱이 완료되면 자료 목록에 폴더와 추출된 상세 파일이 생성됩니다.
    - 파싱된 파일은 md, html, json, png 형식으로 저장됩니다.
    - 파싱 결과를 지원하는 일부 파서의 경우 **파싱 결과 시각화** 창이 추가로 표시됩니다.
@@ -240,7 +240,7 @@
 
 파싱을 진행한 문서가 PDF 파일이면 시각화 창을 통해 파싱 결과를 확인할 수 있습니다.
 
-![1548.png](KADaP_UserManual_Agent-web-resources/image/1548.png)
+![1548.png](./../../assets/07-agent/1548.png)
 
 - 하이라이트되지 않는 엘리먼트는 인식되지 않은 부분으로 AI 응답에 활용될 수 없습니다.
 > ![2611.png](KADaP_UserManual_Frontmatter-web-resources/image/2611.png) **참고**
@@ -253,11 +253,11 @@
 
 - **마이디스크** > **My files** > **tools** > **agent** 폴더 내의 자료를 내 자료로 동기화할 수 있습니다.<br>**내 자료**를 선택한 후, **폴더 동기화**를 클릭하세요.
 
-  ![1586.png](KADaP_UserManual_Agent-web-resources/image/1586.png)
+  ![1586.png](./../../assets/07-agent/1586.png)
 
 - 내 자료에서 업로드하거나 파싱된 자료들을 **마이디스크** > **My files** > **tools** > **agent** 폴더 내로 동기화할 수 있습니다.<br>내 자료 내에서 동기화하려는 폴더를 선택한 후, **폴더 동기화**를 클릭하세요.
 
-  ![1599.png](KADaP_UserManual_Agent-web-resources/image/1599.png)
+  ![1599.png](./../../assets/07-agent/1599.png)
 
 ## 마이 챗봇
 
@@ -265,13 +265,13 @@
 
 자동차 지식 에이전트의 로그인 계정을 클릭한 후, **마이 챗봇**을 클릭하세요. 마이 챗봇 페이지로 이동합니다.
 
-![1612.png](KADaP_UserManual_Agent-web-resources/image/1612.png)
+![1612.png](./../../assets/07-agent/1612.png)
 
 ### 화면 구성
 
 마이 챗봇 화면은 다음과 같이 구성됩니다.
 
-![1626.png](KADaP_UserManual_Agent-web-resources/image/1626.png)
+![1626.png](./../../assets/07-agent/1626.png)
 
 | 번호 | 항목 | 설명 |
 | --- | --- | --- |
@@ -287,7 +287,7 @@
    - **챗봇 생성** 팝업창이 표시됩니다.
 2. 챗봇 생성을 위한 항목을 설정하세요.
 
-   ![1649.png](KADaP_UserManual_Agent-web-resources/image/1649.png)
+   ![1649.png](./../../assets/07-agent/1649.png)
 
 3. **챗봇 생성**을 클릭하세요.<br>생성된 챗봇 위젯을 목록에서 확인할 수 있습니다.
 
@@ -301,7 +301,7 @@
 
 상세 정보를 확인하려는 챗봇 위젯을 클릭하세요.
 
-![1689.png](KADaP_UserManual_Agent-web-resources/image/1689.png)
+![1689.png](./../../assets/07-agent/1689.png)
 
 ## 대시보드
 
@@ -309,13 +309,13 @@
 
 자동차 지식 에이전트의 로그인 계정을 클릭한 후, **대시보드**를 클릭하세요. 대시보드 페이지로 이동합니다.
 
-![1711.png](KADaP_UserManual_Agent-web-resources/image/1711.png)
+![1711.png](./../../assets/07-agent/1711.png)
 
 ### 화면 구성
 
 대시보드 화면은 다음과 같이 구성됩니다.
 
-![1723.png](KADaP_UserManual_Agent-web-resources/image/1723.png)
+![1723.png](./../../assets/07-agent/1723.png)
 
 | 번호 | 항목 | 설명 |
 | --- | --- | --- |
@@ -327,10 +327,10 @@
 
 자동차 지식 에이전트의 리소스별 API 사용량과 비용 현황을 확인할 수 있습니다.
 
-![1747.png](KADaP_UserManual_Agent-web-resources/image/1747.png)
+![1747.png](./../../assets/07-agent/1747.png)
 
 ### API 키 관리하기
 
 자동차 지식 에이전트의 다양한 AI 기능을 기본 제공량 소진 후 계속해서 사용하기 위해서는 개인의 LLM 또는 파서의 API키를 추가하여 사용할 수 있습니다.
 
-![1762.png](KADaP_UserManual_Agent-web-resources/image/1762.png)
+![1762.png](./../../assets/07-agent/1762.png)
