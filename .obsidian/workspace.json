@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "TOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "TOC"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "4ce09a7598b868c4",
   "lastOpenFiles": [
+    "README.md",
     "SUMMARY.md",
     "환영합니다!.md",
     "Guide.md",
@@ -213,7 +214,6 @@
     "appendix01/deprecated-cloud-server/cmp-ui.md",
     "appendix01/deprecated-cloud-server/cmp-ui-vs.-horizon-ui.md",
     "appendix01/deprecated-cloud-server/cmp-ui-3.md",
-    "appendix01/deprecated-cloud-server/cmp-ui-2.md",
     "appendix01/deprecated-cloud-server",
     "appendix01/kadap-vpn",
     "appendix01",
