@@ -1,10 +1,10 @@
 # 목차
 
 - [00. 들어가기전에](pages/00-kadap/00-00.md)
-	- [00-1 메뉴얼 읽는 법](pages/00-kadap/00-01.md)
-	- [00-2 시작하기](pages/00-kadap/00-02.md)
-	- [00-3 회원 가입하기](pages/00-kadap/00-03.md)
-	- [00-4 로그인 하기](pages/00-kadap/00-04.md)
+	- [00-1. 메뉴얼 읽는 법](pages/00-kadap/00-01.md)
+	- [00-2. 시작하기](pages/00-kadap/00-02.md)
+	- [00-3. 회원 가입하기](pages/00-kadap/00-03.md)
+	- [00-4. 로그인 하기](pages/00-kadap/00-04.md)
 - [01. 자동차 데이터 포털(Portal)](pages/01-portal/01-01.md)
 	- [01-1 자동차 데이터 포털 시작](pages/01-portal/01-02.md)
 	- [01-2 메뉴 구성 - 검색](pages/01-portal/01-03.md)
