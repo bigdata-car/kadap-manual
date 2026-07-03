@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/06-dataspace/06-12.md",
-                "mode": "preview",
+                "file": "pages/06-dataspace/06-12a.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "06-12"
+              "title": "06-12a"
             }
           }
         ],
@@ -201,9 +201,11 @@
   },
   "active": "990ab3be784a767a",
   "lastOpenFiles": [
+    "Pasted image 20260703211839.png",
+    "assets/06-dataspace/~$image.tmp",
+    "pages/06-dataspace/06-12.md",
     "Pasted image 20260703211717.png",
     "pages/06-dataspace/06-12a.md",
-    "pages/06-dataspace/06-12.md",
     "Pasted image 20260703211301.png",
     "pages/06-dataspace/06-13.md",
     "pages/06-dataspace/06-20.md",
@@ -223,8 +225,6 @@
     "Pasted image 20260703210522.png",
     "Pasted image 20260703210504.png",
     "Pasted image 20260703210437.png",
-    "Pasted image 20260703210243.png",
-    "assets/06-dataspace/~$image.tmp",
     "pages/06-dataspace/06-05.md",
     "assets/06-dataspace/image.pptx",
     "assets/06-dataspace/KADaP_UserManual_그래픽요소.pptx",
