@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/06-dataspace/06-12a.md",
+                "file": "TOC.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "06-12a"
+              "title": "TOC"
             }
           }
         ],
@@ -201,11 +201,15 @@
   },
   "active": "990ab3be784a767a",
   "lastOpenFiles": [
+    "pages/02-cloud/02-13.md",
+    "pages/02-cloud/02-12.md",
+    "pages/02-cloud/02-01.md",
+    "pages/02-cloud/02-00.md",
+    "pages/06-dataspace/06-12a.md",
     "assets/06-dataspace/~$image.tmp",
     "Pasted image 20260703211839.png",
     "pages/06-dataspace/06-12.md",
     "Pasted image 20260703211717.png",
-    "pages/06-dataspace/06-12a.md",
     "Pasted image 20260703211301.png",
     "pages/06-dataspace/06-13.md",
     "pages/06-dataspace/06-20.md",
@@ -238,9 +242,6 @@
     "pages/07-agent/07-05.md",
     "pages/07-agent/07-06.md",
     "pages/07-agent/07-07.md",
-    "pages/07-agent/07-08.md",
-    "pages/07-agent/07-09.md",
-    "pages/07-agent/07-10.md",
     "pages/pages.zip",
     "pages/07-agent",
     "pages/06-dataspace",

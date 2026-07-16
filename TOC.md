@@ -29,6 +29,7 @@
   -[02-09 디스크 생성 및 관리하기](pages/02-cloud/02-10.md)
   -[02-10 디스크 백업하기](pages/02-cloud/02-11.md)
   -[02-11 포트 포워딩하기](pages/02-cloud/02-12.md)
+  -[02-12 참고 : WireGuard 사용하기](pages/02-cloud/02-13.md) 
 - [03. 인공지능 개발 솔루션(GPU as a Service)](pages/03-gpuaas/03-01.md)
   -[03-01 접속 하기](pages/03-gpuaas/03-02.md)
   -[03-02 메뉴 구성](pages/03-gpuaas/03-03.md)
