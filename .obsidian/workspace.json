@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/01-portal/01-11.md",
+                "file": "pages/01-portal/01-12.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01-11"
+              "title": "01-12"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/01-portal/01-11.md",
+                "file": "pages/01-portal/01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01-11 의 백링크"
+              "title": "01-12 의 백링크"
             }
           },
           {
@@ -186,6 +186,8 @@
   },
   "active": "469e9a47228c77fb",
   "lastOpenFiles": [
+    "pages/01-portal/01-11.md",
+    "pages/01-portal/01-12.md",
     "pages/01-portal/01-10.md",
     "pages/01-portal/01-09.md",
     "pages/01-portal/01-08.md",
@@ -222,8 +224,6 @@
     "assets/06-dataspace/~$image.tmp",
     "pages/06-dataspace/06-12.md",
     "pages/06-dataspace/06-13.md",
-    "pages/06-dataspace/06-20.md",
-    "pages/06-dataspace/06-19.md",
     "assets/06-dataspace/image.pptx",
     "assets/06-dataspace/KADaP_UserManual_그래픽요소.pptx",
     "assets/06-dataspace/install_iot.zip",
