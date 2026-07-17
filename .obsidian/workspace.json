@@ -27,13 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/00-kadap/00-04.md",
+                "file": "pages/00-kadap/00-03.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "00-04"
+              "title": "00-03"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/00-kadap/00-04.md",
+                "file": "pages/00-kadap/00-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "00-04 의 백링크"
+              "title": "00-03 의 백링크"
             }
           },
           {
@@ -202,11 +202,11 @@
   },
   "active": "990ab3be784a767a",
   "lastOpenFiles": [
-    "pages/00-kadap/00-03.md",
-    "pages/00-kadap/00-04.md",
     "pages/00-kadap/00-02.md",
     "pages/00-kadap/00-01.md",
     "pages/00-kadap/00-00.md",
+    "pages/00-kadap/00-04.md",
+    "pages/00-kadap/00-03.md",
     "TOC.md",
     "pages/02-cloud/02-13.md",
     "pages/02-cloud/02-12.md",
