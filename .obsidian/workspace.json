@@ -27,16 +27,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOC.md",
-                "mode": "source",
+                "file": "pages/00-kadap/00-03.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TOC"
+              "title": "00-03"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "55bd937287ed5081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eac360fd092df40b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/00-kadap/00-03.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "00-03"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,6 +221,7 @@
   },
   "active": "990ab3be784a767a",
   "lastOpenFiles": [
+    "TOC.md",
     "pages/02-cloud/02-13.md",
     "pages/02-cloud/02-12.md",
     "pages/02-cloud/02-01.md",
@@ -234,7 +255,6 @@
     "assets/06-dataspace/install_iot.zip",
     "pages/06-dataspace/06-21.md",
     "pages/06-dataspace/06-10.md",
-    "TOC.md",
     "SUMMARY.md",
     "README.md",
     "Guide.md",
