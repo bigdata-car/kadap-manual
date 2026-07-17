@@ -46,14 +46,12 @@
             "id": "469e9a47228c77fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "pages/00-kadap/00-03.md",
-                "mode": "source",
-                "source": true
+                "file": "assets/00-kadap/3232.png"
               },
-              "icon": "lucide-file",
-              "title": "00-03"
+              "icon": "lucide-image",
+              "title": "3232"
             }
           }
         ]
@@ -129,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/00-kadap/00-03.md",
+                "file": "assets/00-kadap/3232.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "00-03 의 백링크"
+              "title": "3232 의 백링크"
             }
           },
           {
@@ -221,16 +219,19 @@
   },
   "active": "469e9a47228c77fb",
   "lastOpenFiles": [
-    "assets/00-kadap/20260717120307.png",
-    "pages/00-kadap/00-03.md",
+    "assets/00-kadap/3245.png",
+    "assets/00-kadap/3268.png",
+    "assets/00-kadap/3311.png",
+    "assets/00-kadap/3320.png",
+    "assets/00-kadap/3350.png",
+    "assets/00-kadap/3366.png",
+    "assets/00-kadap/3394.png",
+    "assets/00-kadap/3437.png",
+    "assets/00-kadap/3472.png",
+    "assets/00-kadap/13273.png",
+    "assets/00-kadap/13290.png",
     "pages/00-kadap/00-04.md",
-    "Pasted image 20260703210626.png",
-    "Pasted image 20260703210555.png",
-    "Pasted image 20260703210243.png",
-    "Pasted image 20260703210048.png",
-    "Pasted image 20260703210023.png",
-    "Pasted image 20260717115434.png",
-    "Pasted image 20260717114120.png",
+    "pages/00-kadap/00-03.md",
     "assets/image.pptx",
     "pages/00-kadap/00-02.md",
     "pages/00-kadap/00-01.md",
@@ -242,9 +243,7 @@
     "pages/02-cloud/02-00.md",
     "pages/06-dataspace/06-12a.md",
     "assets/06-dataspace/~$image.tmp",
-    "Pasted image 20260703211839.png",
     "pages/06-dataspace/06-12.md",
-    "Pasted image 20260703211717.png",
     "pages/06-dataspace/06-13.md",
     "pages/06-dataspace/06-20.md",
     "pages/06-dataspace/06-19.md",
