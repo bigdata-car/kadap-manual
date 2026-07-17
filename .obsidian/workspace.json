@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/00-kadap/00-00.md",
+                "file": "pages/01-portal/01-03.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "00-00"
+              "title": "01-03"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/00-kadap/00-00.md",
+                "file": "pages/01-portal/01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "00-00 의 백링크"
+              "title": "01-03 의 백링크"
             }
           },
           {
@@ -186,14 +186,15 @@
   },
   "active": "469e9a47228c77fb",
   "lastOpenFiles": [
+    "pages/01-portal/01-02.md",
+    "pages/01-portal/01-01.md",
+    "pages/00-kadap/00-00.md",
     "pages/01-portal/01-04.md",
     "pages/01-portal/01-03.md",
-    "pages/01-portal/01-02.md",
     "pages/00-kadap/00-03.md",
     "pages/00-kadap/00-02.md",
     "assets/Pasted image 20260717135540.png",
     "pages/06-dataspace/06-05.md",
-    "pages/01-portal/01-01.md",
     "assets/01-portal/6156.png",
     "assets/00-kadap/3232.png",
     "assets/00-kadap/3245.png",
@@ -206,7 +207,6 @@
     "pages/00-kadap/00-04.md",
     "assets/image.pptx",
     "pages/00-kadap/00-01.md",
-    "pages/00-kadap/00-00.md",
     "TOC.md",
     "pages/02-cloud/02-13.md",
     "pages/02-cloud/02-12.md",
