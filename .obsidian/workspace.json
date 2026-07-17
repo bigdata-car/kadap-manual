@@ -29,7 +29,7 @@
               "state": {
                 "file": "pages/00-kadap/00-03.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "00-03"
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 505.5
+    "width": 319.5
   },
   "right": {
     "id": "fe9b089e2e67902e",
@@ -201,13 +201,14 @@
   },
   "active": "990ab3be784a767a",
   "lastOpenFiles": [
+    "assets/00-kadap/20260717120307.png",
+    "pages/00-kadap/00-03.md",
     "pages/00-kadap/00-04.md",
     "Pasted image 20260703210626.png",
     "Pasted image 20260703210555.png",
     "Pasted image 20260703210243.png",
     "Pasted image 20260703210048.png",
     "Pasted image 20260703210023.png",
-    "pages/00-kadap/00-03.md",
     "Pasted image 20260717115434.png",
     "Pasted image 20260717114120.png",
     "assets/image.pptx",
@@ -224,7 +225,6 @@
     "Pasted image 20260703211839.png",
     "pages/06-dataspace/06-12.md",
     "Pasted image 20260703211717.png",
-    "Pasted image 20260703211301.png",
     "pages/06-dataspace/06-13.md",
     "pages/06-dataspace/06-20.md",
     "pages/06-dataspace/06-19.md",
