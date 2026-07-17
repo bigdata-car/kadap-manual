@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/01-portal/01-03.md",
+                "file": "pages/01-portal/01-11.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01-03"
+              "title": "01-11"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 302.5
   },
   "right": {
     "id": "fe9b089e2e67902e",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/01-portal/01-03.md",
+                "file": "pages/01-portal/01-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01-03 의 백링크"
+              "title": "01-11 의 백링크"
             }
           },
           {
@@ -186,11 +186,18 @@
   },
   "active": "469e9a47228c77fb",
   "lastOpenFiles": [
+    "pages/01-portal/01-10.md",
+    "pages/01-portal/01-09.md",
+    "pages/01-portal/01-08.md",
+    "pages/01-portal/01-07.md",
+    "pages/01-portal/01-06.md",
+    "pages/01-portal/01-05.md",
+    "pages/01-portal/01-04.md",
+    "pages/01-portal/01-03.md",
+    "assets/01-portal/6375.png",
     "pages/01-portal/01-02.md",
     "pages/01-portal/01-01.md",
     "pages/00-kadap/00-00.md",
-    "pages/01-portal/01-04.md",
-    "pages/01-portal/01-03.md",
     "pages/00-kadap/00-03.md",
     "pages/00-kadap/00-02.md",
     "assets/Pasted image 20260717135540.png",
@@ -203,7 +210,6 @@
     "assets/00-kadap/3320.png",
     "assets/00-kadap/3350.png",
     "assets/00-kadap/3366.png",
-    "assets/00-kadap/3394.png",
     "pages/00-kadap/00-04.md",
     "assets/image.pptx",
     "pages/00-kadap/00-01.md",
@@ -218,12 +224,6 @@
     "pages/06-dataspace/06-13.md",
     "pages/06-dataspace/06-20.md",
     "pages/06-dataspace/06-19.md",
-    "pages/06-dataspace/06-18.md",
-    "pages/06-dataspace/06-17.md",
-    "pages/06-dataspace/06-16.md",
-    "pages/06-dataspace/06-15.md",
-    "pages/06-dataspace/06-14.md",
-    "pages/06-dataspace/06-11a.md",
     "assets/06-dataspace/image.pptx",
     "assets/06-dataspace/KADaP_UserManual_그래픽요소.pptx",
     "assets/06-dataspace/install_iot.zip",
