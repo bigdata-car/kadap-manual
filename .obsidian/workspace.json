@@ -37,6 +37,26 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "5a50cb1c0224c594",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "469e9a47228c77fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/00-kadap/00-03.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "00-03"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +219,7 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "990ab3be784a767a",
+  "active": "469e9a47228c77fb",
   "lastOpenFiles": [
     "assets/00-kadap/20260717120307.png",
     "pages/00-kadap/00-03.md",
