@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOC.md",
+                "file": "pages/03-gpuaas/03-03a.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TOC"
+              "title": "03-03a"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOC.md",
+                "file": "pages/03-gpuaas/03-03a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "TOC 의 백링크"
+              "title": "03-03a 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOC.md",
+                "file": "pages/03-gpuaas/03-03a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "TOC 의 나가는 링크"
+              "title": "03-03a 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOC.md",
+                "file": "pages/03-gpuaas/03-03a.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TOC 의 개요"
+              "title": "03-03a 의 개요"
             }
           }
         ],
@@ -187,12 +187,13 @@
   },
   "active": "469e9a47228c77fb",
   "lastOpenFiles": [
+    "pages/03-gpuaas/03-00.md",
+    "TOC.md",
     "pages/03-gpuaas/03-11.md",
     "pages/03-gpuaas/03-13.md",
     "pages/03-gpuaas/03-12.md",
     "pages/03-gpuaas/03-10.md",
     "pages/03-gpuaas/03-09.md",
-    "TOC.md",
     "pages/03-gpuaas/03-08.md",
     "pages/03-gpuaas/03-07.md",
     "pages/03-gpuaas/03-06.md",
@@ -203,7 +204,6 @@
     "pages/03-gpuaas/03-03.md",
     "pages/03-gpuaas/03-02.md",
     "pages/03-gpuaas/03-01.md",
-    "pages/03-gpuaas/03-00.md",
     "pages/03-gpuaas/03-19.md",
     "pages/03-gpuaas/03-18.md",
     "pages/03-gpuaas/03-17.md",
