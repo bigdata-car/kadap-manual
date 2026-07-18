@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "03-09"
             }
+          },
+          {
+            "id": "de31c385be3bc9bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/03-gpuaas/03-09.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "03-09"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,11 +200,14 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "469e9a47228c77fb",
+  "active": "de31c385be3bc9bd",
   "lastOpenFiles": [
-    "pages/03-gpuaas/03-10.md",
-    "pages/03-gpuaas/03-09.md",
     "pages/03-gpuaas/03-08.md",
+    "assets/03-gpuaas/3208.png",
+    "pages/03-gpuaas/03-09.md",
+    "assets/03-gpuaas/3187a.png",
+    "assets/3187b.png",
+    "pages/03-gpuaas/03-10.md",
     "pages/03-gpuaas/03-07.md",
     "pages/03-gpuaas/03-06.md",
     "pages/03-gpuaas/03-05.md",
@@ -213,16 +231,12 @@
     "pages/01-portal/01-11.md",
     "pages/02-cloud/02-12.md",
     "pages/02-cloud/02-13.md",
-    "pages/01-portal/01-10.md",
     "assets/01-portal/6375.png",
     "assets/Pasted image 20260717135540.png",
     "assets/01-portal/6156.png",
     "assets/00-kadap/3232.png",
     "assets/00-kadap/3245.png",
     "assets/00-kadap/3268.png",
-    "assets/00-kadap/3311.png",
-    "assets/00-kadap/3320.png",
-    "assets/00-kadap/3350.png",
     "assets/image.pptx",
     "assets/06-dataspace/~$image.tmp",
     "assets/06-dataspace/image.pptx",
