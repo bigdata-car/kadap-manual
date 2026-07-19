@@ -202,6 +202,8 @@
   },
   "active": "de31c385be3bc9bd",
   "lastOpenFiles": [
+    "assets/03-gpuaas/5689a.png",
+    "assets/03-gpuaas/image.pptx",
     "pages/03-gpuaas/03-09.md",
     "assets/03-gpuaas/3187b.png",
     "pages/03-gpuaas/03-08.md",
@@ -245,7 +247,6 @@
     "TOC.zip",
     "pages/pages.zip",
     "pages/07-agent",
-    "pages/06-dataspace",
-    "pages/05-market-api"
+    "pages/06-dataspace"
   ]
 }
