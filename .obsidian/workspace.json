@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/03-gpuaas/03-13.md",
+                "file": "pages/03-gpuaas/03-14.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "03-13"
+              "title": "03-14"
             }
           }
         ],
@@ -200,8 +200,10 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "f96728184728a397",
+  "active": "de31c385be3bc9bd",
   "lastOpenFiles": [
+    "pages/03-gpuaas/03-13.md",
+    "pages/03-gpuaas/03-12.md",
     "pages/03-gpuaas/03-14.md",
     "pages/03-gpuaas/03-15.md",
     "pages/03-gpuaas/03-01.md",
@@ -217,8 +219,6 @@
     "pages/03-gpuaas/03-09.md",
     "pages/03-gpuaas/03-10.md",
     "pages/03-gpuaas/03-11.md",
-    "pages/03-gpuaas/03-12.md",
-    "pages/03-gpuaas/03-13.md",
     "pages/03-gpuaas/03-16.md",
     "assets/03-gpuaas/5690f.png",
     "assets/03-gpuaas/5690e.png",
