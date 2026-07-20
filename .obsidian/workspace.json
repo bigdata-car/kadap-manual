@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/03-gpuaas/03-15.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "03-15"
+              "title": "README"
             }
           }
         ],
@@ -202,8 +202,9 @@
   },
   "active": "de31c385be3bc9bd",
   "lastOpenFiles": [
-    "pages/03-gpuaas/03-14.md",
+    "SUMMARY.md",
     "pages/03-gpuaas/03-15.md",
+    "pages/03-gpuaas/03-14.md",
     "pages/03-gpuaas/03-13.md",
     "pages/03-gpuaas/03-12.md",
     "pages/03-gpuaas/03-01.md",
