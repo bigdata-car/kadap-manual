@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "pages/02-cloud/02-13.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "02-13"
             }
           }
         ],
@@ -202,6 +202,8 @@
   },
   "active": "de31c385be3bc9bd",
   "lastOpenFiles": [
+    "TOC.md",
+    "README.md",
     "SUMMARY.md",
     "pages/03-gpuaas/03-15.md",
     "pages/03-gpuaas/03-14.md",
@@ -232,13 +234,11 @@
     "assets/03-gpuaas/5689a.png",
     "assets/03-gpuaas/image.pptx",
     "assets/03-gpuaas/3187b.png",
-    "TOC.md",
     "pages/03-gpuaas/03-19.md",
     "pages/03-gpuaas/03-18.md",
     "pages/03-gpuaas/03-17.md",
     "pages/01-portal/01-11.md",
     "pages/02-cloud/02-12.md",
-    "pages/02-cloud/02-13.md",
     "assets/image.pptx",
     "assets/06-dataspace/~$image.tmp",
     "assets/06-dataspace/image.pptx",
