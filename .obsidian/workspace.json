@@ -39,14 +39,12 @@
             "id": "b28cdd29ba4074e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "pages/00-kadap/00-01.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20260703210023.png"
               },
-              "icon": "lucide-file",
-              "title": "00-01"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260703210023"
             }
           }
         ],
@@ -218,6 +216,9 @@
   },
   "active": "b28cdd29ba4074e6",
   "lastOpenFiles": [
+    "raw/claude/KADaP_UserManual_Exchange - 복사본.md",
+    "raw/claude/KADaP_UserManual_Cloud - 복사본.md",
+    "pages/00-kadap/00-01.md",
     "pages/00-kadap/00-00.md",
     "pages/02-cloud/02-12.md",
     "pages/02-cloud/02-13.md",
@@ -243,9 +244,6 @@
     "README.md",
     "SUMMARY.md",
     "pages/03-gpuaas/03-15.md",
-    "pages/03-gpuaas/03-14.md",
-    "pages/03-gpuaas/03-13.md",
-    "pages/03-gpuaas/03-12.md",
     "assets/03-gpuaas/5690f.png",
     "assets/03-gpuaas/5690e.png",
     "assets/03-gpuaas/5690d.png",
