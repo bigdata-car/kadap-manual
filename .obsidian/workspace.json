@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/00-kadap/00-00.md",
+                "file": "pages/00-kadap/00-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-00"
+              "title": "00-01"
             }
           }
         ],
@@ -218,6 +218,7 @@
   },
   "active": "b28cdd29ba4074e6",
   "lastOpenFiles": [
+    "pages/00-kadap/00-00.md",
     "pages/02-cloud/02-12.md",
     "pages/02-cloud/02-13.md",
     "pages/03-gpuaas/03-03.md",
@@ -245,7 +246,6 @@
     "pages/03-gpuaas/03-14.md",
     "pages/03-gpuaas/03-13.md",
     "pages/03-gpuaas/03-12.md",
-    "pages/03-gpuaas/03-01.md",
     "assets/03-gpuaas/5690f.png",
     "assets/03-gpuaas/5690e.png",
     "assets/03-gpuaas/5690d.png",
