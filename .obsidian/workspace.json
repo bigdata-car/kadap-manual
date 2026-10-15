@@ -39,12 +39,14 @@
             "id": "b28cdd29ba4074e6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.4"
+                "file": "pages/02-cloud/02-05.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.13.4"
+              "icon": "lucide-file",
+              "title": "02-05"
             }
           }
         ],
@@ -123,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/03-gpuaas/03-10.md",
+                "file": "pages/02-cloud/02-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "03-10 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -194,8 +196,7 @@
               "title": "03-10 의 개요"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,6 +217,15 @@
   },
   "active": "b28cdd29ba4074e6",
   "lastOpenFiles": [
+    "TOC.md",
+    "pages/02-cloud/02-04.md",
+    "pages/02-cloud/02-03.md",
+    "pages/02-cloud/02-01.md",
+    "pages/03-gpuaas/03-07.md",
+    "pages/01-portal/01-05.md",
+    "pages/02-cloud/02-02.md",
+    "SUMMARY.md",
+    "README.md",
     "tips/nas-nextcloud/undefined.md",
     "tips/nas-nextcloud/undefined-3.md",
     "tips/nas-nextcloud/undefined-2.md",
@@ -228,9 +238,6 @@
     "tips/nas-nextcloud",
     "tips/ckan.md",
     "tips",
-    "TOC.md",
-    "README.md",
-    "SUMMARY.md",
     "pages/03-gpuaas/03-15.md",
     "pages/03-gpuaas/03-14.md",
     "pages/03-gpuaas/03-13.md",
@@ -238,12 +245,6 @@
     "pages/03-gpuaas/03-01.md",
     "pages/03-gpuaas/03-00.md",
     "pages/03-gpuaas/03-02.md",
-    "pages/03-gpuaas/03-03.md",
-    "pages/03-gpuaas/03-03a.md",
-    "pages/03-gpuaas/03-04.md",
-    "pages/03-gpuaas/03-05.md",
-    "pages/03-gpuaas/03-06.md",
-    "pages/03-gpuaas/03-07.md",
     "assets/03-gpuaas/5690f.png",
     "assets/03-gpuaas/5690e.png",
     "assets/03-gpuaas/5690d.png",
