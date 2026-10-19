@@ -241,6 +241,8 @@
   },
   "active": "84475fd5b1441f9a",
   "lastOpenFiles": [
+    "pages/06-dataspace/06-03.md",
+    "pages/06-dataspace_split_backup.zip",
     "SUMMARY.md",
     "TOC.md",
     "pages/06-dataspace/06-05.md",
@@ -266,7 +268,6 @@
     "pages/06-dataspace/06-05-01.md",
     "pages/06-dataspace/06-04.md",
     "pages/06-dataspace/06-03-08.md",
-    "pages/06-dataspace/06-03-07.md",
     "pages/06-dataspace",
     "pages/06-dataspace_old.zip",
     "pages/06-dataspace_old",
@@ -285,7 +286,6 @@
     "assets/06-dataspace_old/install_iot.zip",
     "assets/06-dataspace_old/image2.pptx",
     "assets/06-dataspace_old/image.pptx",
-    "assets/06-dataspace_old",
-    "tips/nas-nextcloud"
+    "assets/06-dataspace_old"
   ]
 }
