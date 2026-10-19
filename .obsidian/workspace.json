@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/07-agent/07-01.md",
+                "file": "pages/06-dataspace/06-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07-01"
+              "title": "06-03"
             }
           }
         ],
@@ -245,21 +245,23 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "f96728184728a397",
+  "active": "b28cdd29ba4074e6",
   "lastOpenFiles": [
-    "pages/07-agent/07-02.md",
-    "pages/07-agent/07-01.md",
-    "pages/07-agent/07-00.md",
-    "pages/06-dataspace/06-04.md",
+    "pages/06-dataspace/06-08.md",
+    "pages/06-dataspace/06-07.md",
     "pages/06-dataspace/06-05.md",
-    "pages/06-dataspace/06-80.md",
+    "pages/06-dataspace/06-04.md",
+    "pages/06-dataspace/06-06.md",
     "pages/06-dataspace/06-03.md",
+    "pages/06-dataspace/06-80.md",
+    "pages/06-dataspace/06-90.md",
+    "pages/07-agent/07-01.md",
+    "pages/07-agent/07-02.md",
+    "pages/07-agent/07-00.md",
     "pages/06-dataspace/06-02.md",
     "pages/06-dataspace/06-01.md",
     "pages/06-dataspace/06-00.md",
-    "pages/06-dataspace/06-90.md",
     "pages/06-dataspace/06-02-01.md",
-    "pages/06-dataspace/06-06.md",
     "pages/06-dataspace/06-01-09.md",
     "pages/06-dataspace/06-01-04.md",
     "TOC.md",
@@ -272,8 +274,6 @@
     "SUMMARY.md",
     "pages/06-dataspace/06-05-19.md",
     "pages/06-dataspace/06-05-18.md",
-    "pages/06-dataspace/06-05-17.md",
-    "pages/06-dataspace/06-05-15.md",
     "pages/06-dataspace",
     "pages/06-dataspace_old.zip",
     "pages/06-dataspace_old",
