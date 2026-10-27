@@ -103,3 +103,7 @@
   - [07-10 자료관리-폴더 동기화](pages/07-agent/07-11.md)
   - [07-11 마이 챗봇](pages/07-agent/07-12.md)
   - [07-12 대시보드](pages/07-agent/07-13.md)
+  - [[실습] AI Agent 개요 및 효과적인 활용 방법](pages/07-agent/07-14.md)
+  - [[실습] MCP 개요 및 실습 준비](pages/07-agent/07-15.md)
+  - [[실습] MCP Server 구축 및 Tool 연동](pages/07-agent/07-16.md)
+  - [[실습] AI Agent + MCP 활용](pages/07-agent/07-17.md)
